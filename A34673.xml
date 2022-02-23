@@ -1,0 +1,754 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The covenant of Gods free grace most sweetly unfolded and comfortably applied to a disquieted soul from that text of 2 Sam. 23. Ver. 5. : also a doctrinall conclusion that there is in all such who are effectually called, in-dwelling spirituall gifs [sic] and graces wrought and created in them by the Holy Ghost / by that reverend and faithful minister of Gods word, Mr. John Cotton, Teacher of the Church at Boston in New-England ; whereunto is added, A profession of faith, made by the reverend divine, Mr. John Davenport, in New-England, at his admission into one of the Churches there.</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 112 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34673</idno>
+            <idno type="STC">Wing C6424</idno>
+            <idno type="STC">ESTC R30971</idno>
+            <idno type="EEBO-CITATION">11751681</idno>
+            <idno type="OCLC">ocm 11751681</idno>
+            <idno type="VID">48591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34673)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1483:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The covenant of Gods free grace most sweetly unfolded and comfortably applied to a disquieted soul from that text of 2 Sam. 23. Ver. 5. : also a doctrinall conclusion that there is in all such who are effectually called, in-dwelling spirituall gifs [sic] and graces wrought and created in them by the Holy Ghost / by that reverend and faithful minister of Gods word, Mr. John Cotton, Teacher of the Church at Boston in New-England ; whereunto is added, A profession of faith, made by the reverend divine, Mr. John Davenport, in New-England, at his admission into one of the Churches there.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+                  <author>Davenport, John, 1597-1670. A profession of faith.</author>
+               </titleStmt>
+               <extent>[4], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed M.S. for Iohn Hancock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A profession of faith" by John Davenport begins on p. 34.</note>
+                  <note>"Imprimatur, John Downame."</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XXIII, 5.</term>
+               <term>Grace (Theology) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48591:1"/>
+            <pb facs="tcp:48591:1"/>
+            <p>THE COVENANT OF Gods free Grace, Moſt ſweetly unfolded, and comfor<g ref="char:EOLhyphen"/>tably applied to a diſquieted Soul, from that Text of 2 SAM. 23. VER. 5.</p>
+            <p>Alſo a Doctrinall Concluſion, that there is in all ſuch who are effectually called, in-dwelling ſpirituall Gifs and Graces, wrought and created in them by the Holy Ghoſt.</p>
+            <p>By that Reverend and faithfull Miniſter of Gods Word, M<hi rend="sup">r</hi>. <hi>JOHN COTTON,</hi> Teacher of the Church at <hi>Boſton</hi> in <hi>NEW-ENGLAND.</hi>
+            </p>
+            <p>Whereunto is added, <hi>A Profeſsion of Faith,</hi> made by the Reverend Divine, M<hi rend="sup">r</hi>. <hi>John Davenport,</hi> in <hi>New-England,</hi> at his admiſſion into one of the Churches there.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>JOHN DOWNAME.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>M. S.</hi> for <hi>Iohn Hancock,</hi> and are to be ſold at his Shop in <hi>Popes-head Alley,</hi> 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:48591:2" rendition="simple:additions"/>
+            <pb facs="tcp:48591:2"/>
+            <head>To all who have Intereſt in the <hi>COVENANT OF GRACE.</hi>
+            </head>
+            <opener>
+               <salute>CHRISTIAN FRIENDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe comfortable Notes being in the hands of a friend to the Authour, who commen<g ref="char:EOLhyphen"/>ding the worth and excellencie of them, thought not good to ſmother them by bu<g ref="char:EOLhyphen"/>rying them in oblivion, but to expoſe them to publique view, for the generall good and eſtabliſhment of troubled ſouls, that they underſtanding their right and title to this ſure and everlaſting Covenant, may take comfort to themſelves, and be ſupported againſt all the tempeſtuous ſtormes ariſing from Sa<g ref="char:EOLhyphen"/>tan and the world without, or the diſtempers of their own hearts within: <hi>David</hi> was unſetled, and his family diſordered, yet <hi>Gods Covenant is everlaſting, ordered, and ſure.</hi> The condition that is required of us as part of the <hi>Covenant,</hi> is the performance of theſe things; <hi>to believe, repent, and ſerve the Lord in newneſſe of life:</hi> But the power and abi<g ref="char:EOLhyphen"/>lity by which wee do them, is a part of the <hi>Covenant</hi> on Gods part, to have new hearts, and new ſpirits, whereby wee come to repentance, and bringing forth fruit worthy of amendment
+<pb facs="tcp:48591:3"/>of life; this inward abilitie, and new frame of heart, by which we are renewed in the ſpirit of our mindes, the writing of his <hi>Law</hi> in our inward parts, that is a branch of <hi>Gods Co<g ref="char:EOLhyphen"/>venant:</hi> but the bringing forth the fruits of theſe inward abilities and graces that are ingraffed in us by Chriſt, is re<g ref="char:EOLhyphen"/>quired in us: As for example; the grace and power of be<g ref="char:EOLhyphen"/>lieving that God hath promiſed (to give it belongs to him) but to believe, to take hold of the promiſes, to accept of Jeſus Chriſt, to receive him as our Lord and Saviour, and the gift of righteouſneſſe by him is required as a condition on our part: As wee are to make uſe of the <hi>Covenant</hi> in the mat<g ref="char:EOLhyphen"/>ter of our juſtification againſt the gilt-of-ſin; ſo it will be good for us to make uſe of it for ſanctification againſt the power of ſin; when wee are troubled with any ſtrong luſt or violent temptation, which is too hard for us to overcome, know this for thy comfort, that it is a part of the Lords own <hi>Covenant,</hi> to deliver thee from all thine enemies, that thou mayeſt ſerve him in holineſſe and righteouſneſſe all the dayes of thy life; hee hath promiſed to give the Holy Ghoſt, and to create a new heart and a new ſpirit in us, and to cauſe us to walk in his wayes: He hath promiſed, that if we be in trouble, and call upon him, he will deliver us; and if we confeſſe and forſake our ſins, he is faithfull and juſt to forgive us our ſins, and to cleanſe us from all unrighteouſneſſe. If thou reapeſt any comfort by that which followeth, let God have all the glory. <hi>Vale.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:48591:3"/>
+            <head>THE SAINTS COMFORTS againſt Perſonall and Domeſticall Infirmities, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 SAMUEL 23.5.</hi>
+                  </bibl>
+                  <p>Although my houſe be not ſo with God, yet he hath made with me an everlaſting Covenant, ordered in all things, and ſure.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe words are part of the laſt <hi>Song</hi> or <hi>Pſalme</hi> that ever <hi>David</hi> penned, and therefore more ſweet, ſa<g ref="char:EOLhyphen"/>voury and ſpirituall. It is many times with Gods children, as it is with the Sunne, which ſhineth moſt glorious when it is neereſt ſetting; the more corruption decayes, the more grace increaſeth, no growing Chriſtian, but the neerer he cometh to Heaven, the more ſweet and ſpirituall are his Meditations; and therefore <hi>David</hi> lying in no known ſin, his laſt <hi>Song</hi> muſt needs be moſt heavenly and ſweet. Theſe are not the laſt words of <hi>David,</hi> as it is ſaid, <hi>verſe.</hi> 1. but they are his laſt ſpirituall <hi>Pſalme</hi> or <hi>Song;</hi> and therefore full of heavenly matter, according to the ſtrength of ſpirit he was grown unto.</p>
+            <p>The 72. <hi>Pſalme</hi> was the laſt in the Book of the <hi>Pſalms,</hi> but this ſeemeth to be after that, wherein he ſtyleth himſelf <hi>The ſweet Singer of Iſrael,</hi> verſe 1.</p>
+            <p>This verſe of the Text containeth in it three principall parts:</p>
+            <pb n="2" facs="tcp:48591:4"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, an acknowledgement of the failing of <hi>David</hi> himſelf and his family, in the many duties God calleth them unto; in theſe words: <hi>Although my houſe be not ſo with God; not ſo,</hi> hath reference to the ſecond and third verſe, not walking according to the wayes God called them to walk in: What wayes? <hi>verſe</hi> 3. <hi>Fear of God, Righteouſneſſe and Juſtice;</hi> he requires that the fear of God, righ<g ref="char:EOLhyphen"/>teouſneſſe and Juſtice ſhould rule in a Princes houſe.</p>
+            <p>For explication of the words, <hi>Though my houſe be not ſo with God,</hi> to wit, though my houſe do not ſo walk in Gods fear and righte<g ref="char:EOLhyphen"/>ouſneſſe as he requireth, wherein he acknowledgeth his failings.</p>
+            <p>Again, when he ſaith, <hi>not ſo,</hi> he meaneth, his houſe was not ſo pure and clean, ſo fruitfull before God, as he required, <hi>verſ.</hi> 4. God would have a mans ſpirit to be as the light of the morning, cleere without clouds, pure from all mixture of darkneſſe and corrupti<g ref="char:EOLhyphen"/>ons; and our ſpirits and families freſh and fruitfull, as the graſſe, when followed with ſeaſonable ſhowers, and the pleaſant beams of the Sun, it grows moſt ſweetly: So God would have his children, where they enjoy good means of Grace, having dewes from hea<g ref="char:EOLhyphen"/>ven, and very comfortable Sunſhines over them, to grow thereby freſh and fruitfull. But what ſaid <hi>David? Although my houſe be not ſo,</hi> not walking in our callings in the feare of God and righteouſ<g ref="char:EOLhyphen"/>neſſe; although my houſe be not pure and clean, freſh and fruitfull, acknowledging his houſe to have failings herein.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, you have the ſupport and comfort <hi>David</hi> took to him<g ref="char:EOLhyphen"/>ſelf, in the midſt of the diſorders of his houſe, from the orderlinſſe of Gods Covenant, which, though his houſe was unſetled, and unſtayed, yet there was a ſure Covenant, though his houſe was fleeting and unſtable, <hi>yet was there an everlaſting Covenant;</hi> hee brings in Gods Covenant amplified by three arguments, contrary to the corruptions that was in his family.</p>
+            <p>His family was Tranſitory, Gods Covenant is Everlaſting,</p>
+            <p>His family was Diſordered, Gods Covenant is Ordered,</p>
+            <p>His family was Unſetled. Gods Covenant is Sure.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, you have a profeſſion of the reſting of his faith upon this Covenant; this is all my deſire and delight, this is all the com<g ref="char:EOLhyphen"/>fort he hath, that Gods Covenant is everlaſting, ſetled, and ſure, which is amplified thus: Though hee and his houſe grow not,
+<pb n="3" facs="tcp:48591:4"/>though they be tranſitory, diſordered, unſetled, yet Gods Cove<g ref="char:EOLhyphen"/>nant to him may continue ſtedfaſt, firm, and ſure, and this is all his deſire. The word in the Originall, ſignifies alſo <hi>delight, It is all his delight,</hi> though God bring him otherwiſe to no great matters, nay, though he ſhould decay in theſe outward things, yet this is all his deſire, that Gods Covenant to him may remain firm and ſure.</p>
+            <p>The words being thus opened, divers things may be raiſed from them: as,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>1</label> That there is no godly man keeps ſo good an houſe, as to walk with God anſwerable to their calling, and the means of grace offe<g ref="char:EOLhyphen"/>red unto them; and this is the meaning of the words, <hi>though my houſe be not ſo with God,</hi> to wit, not walking according to my calling in fear and righteouſneſſe; it is true, I ſhould ſhine as the Sun in the morn<g ref="char:EOLhyphen"/>ing, without clouds with my family, but we are clouded with many corruptions: the graſſe after Sunſhines and rains, hath alwayes a green and freſh colour, but I and my houſe receive many ſhowers and Sunſhines, yet are not we in the like manner fruitfull and flou<g ref="char:EOLhyphen"/>riſhing. <hi>David</hi> might well ſay, his houſe had not the feare of God, when <hi>Abſolom</hi> was ſo rebellious againſt him, as to have plucked him out of his kingdome, when <hi>Amnon</hi> defiled his ſiſter, and was for it ſlain by <hi>Abſolom,</hi> who further defiled his fathers Concubines, and that in the view of the whole nation; there was neither fear of God, nor righteouſneſſe to man, notwithſtanding the many ſweet ſhowers they received from the Prophets, they walked not anſwer<g ref="char:EOLhyphen"/>able to the bleſſed means received, but were cruell and rebellious; therefore, though God hath called <hi>David</hi> to walk with him in the fear of his Name, and to cauſe his family to do ſo, yet that hee ſhould fall ſhort of the grace manifeſted, he hath juſt cauſe to com<g ref="char:EOLhyphen"/>plain, and yet <hi>Davids</hi> houſe is ſet for a pattern for all houſes, <hi>Zach.</hi> 12.8. <hi>In that day ſhall the Lord defend the Inhabitants of Je<g ref="char:EOLhyphen"/>ruſalem, and he that is feeble amongst them, at that day ſhall be as David, and the houſe of David ſhall be as God, as the Angel of the Lord before them;</hi> in which place is ſhewed that God had eſpeciall regard to the houſe of <hi>David,</hi> and where <hi>David</hi> falls ſhort, few exceed it. <hi>David</hi> had a ſpeciall care to rule and govern his houſe aright, <hi>Pſal.</hi> 101.1, 2. <hi>I will,</hi> ſaith he, <hi>behave my ſelfe wiſely, in a perfect way, I will walk within my houſe with a perfect heart;</hi> yet notwithſtanding all this, when <hi>David</hi> looks back, and conſiders his own wayes, and
+<pb n="4" facs="tcp:48591:5"/>findes many diſorders and failings, his houſe is not ſo with God; therefore you may take it for granted, that no godly man doth keep ſo good an houſe, as to walk anſwerable in his calling to the means of grace offered unto him.</p>
+            <p>No houſe walks according to their callings:</p>
+            <p>Firſt, concerning the feare of God in your Chriſtian callings, in every family there be ſome of theſe vices:</p>
+            <list>
+               <item>1. Eye-ſervice; children and ſervants are more carefull to ap<g ref="char:EOLhyphen"/>prove themſelves to their Parents and Maſters then to God.</item>
+               <item>2. In every family you ſhall finde pride and haughtineſſe of minde and ſpirit, contrary to Gods Spirit, <hi>Rom.</hi> 11.20.</item>
+               <item>3. You ſhall finde drouſineſſe of ſpirit in the performance of good duties, which implies likewiſe a want of the true feare of God; and this you may finde in the Family of our bleſſed Saviour; they could not watch with him one houre, notwithſtanding his calling upon them, and ſtirring them up thereunto, <hi>Matth.</hi> 26.40.</item>
+               <item>4. You ſhall finde a ſlowneſſe and dulneſſe of capacity, and un<g ref="char:EOLhyphen"/>derſtanding to apprehend any thing that good is, <hi>Luke</hi> 24.25. <hi>O fooles, and ſlow of heart to believe,</hi> &amp;c.</item>
+               <item>5. You ſhall finde hardneſſe of heart; the Diſciples of our Sa<g ref="char:EOLhyphen"/>viour, though they were continually with him, enjoyed his glori<g ref="char:EOLhyphen"/>ous preſence, daily converſed with him, ſaw many ſtrange viſions, and great miracles, and thereby had many ſweet ſhowers from our Saviour himſelf, falling upon them; yet notwithſtanding after all this, what ſaid our Saviour unto them, <hi>As yet perceive ye not, nor un<g ref="char:EOLhyphen"/>derſtand? have you your hearts yet hardened?</hi> Matth. 8.17.</item>
+            </list>
+            <p>So likewiſe in our outward callings we are failing many wayes in righteouſneſſe one towards another; the husband is wanting to his wife, in not giving her her due of love, or the fruit of love, and ſhe back again to him: Parents and Maſters wanting to children and ſervants, and ſo likewiſe thoſe back again to their ſuperiours, not giving and rendring to one another that which God requires of them: you ſhall ſee <hi>Sarah</hi> wanting to <hi>Abraham,</hi> Gen. 16.5. when ſhe ſaw that <hi>Hagar</hi> had conceived by her husband, and ſhe came there<g ref="char:EOLhyphen"/>by to be deſpiſed of her, ſhe imputed the occaſion of the wrong of<g ref="char:EOLhyphen"/>fered to her by her hand-maid, wholly to her husband, and calleth the Lord to judge between them, notwithſtanding ſhe was moſt faulty her ſelf in it, <hi>Gen.</hi> 16.5. So likewiſe are husbands wanting
+<pb n="5" facs="tcp:48591:5"/>to their wives in love, kindneſſe, proviſion, protection, <hi>&amp;c.</hi> which is a want of righteouſneſſe; ſo children are wanting to their pa<g ref="char:EOLhyphen"/>rents, and one another; as <hi>Abſolom, Adonijah;</hi> and <hi>Amnon</hi> in true naturall affection to his ſiſter: ſometimes they are malicious one to another, as <hi>Joſephs</hi> brethren of <hi>Jacobs</hi> family: So likewiſe idleneſſe and lying, as in <hi>Gehezi,</hi> 2 King. 15.25. <hi>David</hi> had not dealt well with his ſons, nor his ſons with him, neither <hi>Eli</hi> with his in their younger dayes; we ſhould not ſo complain in our generall calling of hardneſſe of heart, and want of life, and unprofitableneſſe in good duties towards God, if we were not ſo much wanting to one ano<g ref="char:EOLhyphen"/>ther in love and righteouſneſſe; if we therefore would not have our hearts dull and unprofitable in our generall calling, we muſt then labour to diſpoſe our ſelves aright in our particular calling, <hi>Not ſo;</hi> he meaneth, not anſwerable to the means of grace: this is true in any family; ſome of the family will not be brought in, no, not if there be ſtrong means uſed, it will be but in hypocriſie; not<g ref="char:EOLhyphen"/>withſtanding all the ſweet ſhowers that fall upon them, and plea<g ref="char:EOLhyphen"/>ſant Sun-ſhines whereof they daily partake, yet ſome will continue as ignorant as at their firſt entrance into the family; and though many do ſettle themſelves to goodneſſe, yet they riſe not without clouds, there be many corruptions in them: As they have much knowledge, ſo likewiſe ſhall you ſee them defiled with much pride and vain-glory. Husbands cannot bring in their wives, nor wives their husbands, Parents their children, nor their ſervants; and though peradventure they may bring in ſome, yet not all; neither this without many a cloud, many ſinfull corruptions, lying, pro<g ref="char:EOLhyphen"/>faneneſſe, unprofitableneſſe; and when they have brought them for<g ref="char:EOLhyphen"/>ward in any good way, they have many times ſuch fears and doupt<g ref="char:EOLhyphen"/>ing of their eſtates, that they are ready to forſake all, and fall back again; and if they come on to any profitable performance of good duties, yet are they ſo wonderfully unſetled in their eſtates and conditions, that many times, the further the day growes, the more cloudy it appears; ſuch ado and trouble is there to come to any ſetledneſſe in good wayes, they are ſo clouded with feares of their eſtates, that if they come to be aſſured of Gods love, they will a while love good duties, but afterward fall back again to a cuſto<g ref="char:EOLhyphen"/>mary performance, and reſt themſelves contented with the deed done, yea, many times they break out into open failings, to the
+<pb n="6" facs="tcp:48591:6"/>wounding of their own ſouls; they prove like the high-wayes, and barren places, rather more defiled, then like the green graſſe, which is bettered by the ſhowers that fall upon it; mens hearts may be right before God, and they may have much care and diligence to uphold in ſuch a bleſſed condition, and yet come far ſhort of what is required of them, as you ſee in <hi>David, Although my houſe be not ſo with God,</hi> &amp;c. And what might be the reaſon of this?</p>
+            <p>From a ſecret purpoſe and counſel God hath to have ſome un<g ref="char:EOLhyphen"/>believers in every family; <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> yea, in ſuch places where you ſhall ſee moſt Religion uſed, and God moſt truly worſhipped, there ſhall be ſome upon whom it ſhall be his pleaſure to ſhew his diſpleaſure; Chriſt made as good choyce as choyce could be made, and yet hee would have us ſee, what we may not unjuſtly expect in the like caſe, <hi>Joh.</hi> 6.70. <hi>Have not I choſen you twelve, and behold one of you is a Devill?</hi> If it were ſo in Chriſts family, then we muſt not look to ſpeed better; there is no family wherein one is not a devill, his family being as a pattern to all other families; it was not for want of means it ſo proved in his, it being our Saviours continuall practice and whole calling to publiſh Gods truth. So for further inſtances, you may ſee in <hi>Adams</hi> family, <hi>Cain</hi> the firſt born, an unbeliever. In <hi>Noahs</hi> family there is curſed <hi>Cham;</hi> in <hi>Abrahams</hi> family is ſcoffing <hi>Iſhmael;</hi> in <hi>Iſaacs</hi> family prophane <hi>Eſau;</hi> in <hi>Jacobs</hi> family, brethren againſt innocent <hi>Joſeph: Moſes</hi> had a prophane wife, who counted him a bloody husband for adminiſtring circumciſion; <hi>Aaron</hi> had his <hi>Nadah</hi> and <hi>Abihu; Samuel</hi> his ſons, were bribe-takers, 1 <hi>Sam.</hi> 8.23. <hi>Eli</hi> his ſons were faulty in the prieſts office; <hi>David</hi> had his <hi>Abſo<g ref="char:EOLhyphen"/>lom, Adonijah,</hi> and <hi>Amnon; Solomon</hi> amongſt all his wives, had not above two that were good; <hi>Aſa</hi> his mother had a grove, <hi>Jehoſaphat</hi> a wicked ſon; <hi>Hezekiah</hi> had <hi>Manaſſes,</hi> who at the firſt was very wicked; <hi>Joſiah,</hi> all his ſons were wicked: and ſo in all other fa<g ref="char:EOLhyphen"/>milies we ſee it true, and therefore we can ſee no cauſe, why with others it ſhould prove better.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But it is ſaid of the <hi>Centurion,</hi> he <hi>feared God with all his houſhold,</hi> Acts 10.2. they ſubmitted themſelves to all Gods Ordinances, though not in truth.</p>
+            <p>That may be true in the generall; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> if all did but profeſſe it, it is true.</p>
+            <p>If they did feare God in truth, <milestone type="tcpmilestone" unit="unspecified" n="2"/> it was not likely to hold; ſome
+<pb n="7" facs="tcp:48591:6"/>will be removing, and it is like worſe come in their room; but if they ſhould be all good, yet they who were good would be wanting in the feare of God, and righteouſneſſe one towards another in any anſwerable walking according to the means they do enjoy. So concerning the houſe of the Jailor, the ſame anſwer may be given, though they be all generally good, yet may they fall ſhort of the right performance of many good duties to God, and one to another.</p>
+            <p>The ſecond Reaſon is from the vanity and curſe that lies upon the creatures in every condition of life: <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> 
+               <hi>Every man in his beſt eſtate is vanity,</hi> Pſal. 62.10. take them ſingle, they are vanity; take them together, they are <hi>lighter then vanity it ſelfe:</hi> If it was poſſible to aſ<g ref="char:EOLhyphen"/>ſemble a company who are all good, yet would they corrupt one another; yea, put what perſons together you can, they will hurt and defile one another, in ſtead of doing good, <hi>Heb.</hi> 12.23. If any man could have a perfect family, hee might then have an heaven upon earth, which he ſhall not enjoy. In the Church and Con<g ref="char:EOLhyphen"/>gregation, you ſhall finde ſome wheat, ſome chaffe, ſome good corn, ſome tares; ſo in the beſt families, you ſhall finde a mixture of good and bad together.</p>
+            <p>The third reaſon is from the mixture of fleſh and ſpirit that is in every man: Wee know but in part, wee prophecie but in part, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> and as our knowledge, ſo likewiſe all other graces are imperfect; our obedience, hope, love, faith, they are but all in part; and if <hi>David</hi> himſelf was not ſo, how could hee expect it of his family? Though all our families ſhould be brought on to be godly, yet would they be corrupt in part, for ſo are the beſt here.</p>
+            <p>Learn we then hereby, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> every one of us to judge our ſelves and our families, and to teach every perſon to judge themſelves, as at other times, ſo more eſpecially in the dayes of their humiliation, and when they come to renew their promiſes and vowes with their God. If <hi>David</hi> were not able to ſay, that his houſe were perfect with God, what then may we ſay? we have not that means which he had, ſuch Teachers to inſtruct us, ſuch guides whereby we might be brought forward, neither are wee compaſſed about with Pro<g ref="char:EOLhyphen"/>phets in a land of uprightneſſe; where ſhall we finde an houſe that walks with God as <hi>David</hi> did? that growes as the tender graſſe, and is as the Sun without cloud? Wee are therefore to charge our
+<pb n="8" facs="tcp:48591:7"/>ſelves with our follies and failings, and to humble our ſelves for them, whether it be towards God, or towards one another: we ſhould conſider how we are failing in the true fear of God, how ſubject we are to eye-ſervice; and although we can do little in re<g ref="char:EOLhyphen"/>forming Kingdoms and Nation, yet we may take care for our own houſes, we may judge our ſelves and our families in our manifold failings, we may judge our ſelves for our high-mindedneſſe, drouſi<g ref="char:EOLhyphen"/>neſſe in good duties, for our evill ſlow heart to get hold of any ſpi<g ref="char:EOLhyphen"/>rituall thing, for our cuſtomary performance. How do we ſtart aſide from them upon every occaſion? our common complaint is, we are wanting to God in his fear and holy ſervice; we are too ſtrait hearted in the performance of good duties: true cauſe there is why it may be ſo with us; yet this is but a branch of the Cove<g ref="char:EOLhyphen"/>nant, and the reaſon of our failings in that is, becauſe we are wan<g ref="char:EOLhyphen"/>ting in righteouſneſſe one towards another; husbands walk not towards their wives, nor their wives back again to them; Parents to their children, nor children to their parents, <hi>&amp;c.</hi> as they all ought to do, according to the Law of God; and therefore we are to judge our ſelves for our uncleanneſſe, for our unprofitableneſſe under the means we enjoy, and toward one another; and this is the cauſe why ſuch good means as are uſed, are not ſo powerfull to prevaile with us: The Sun riſeth without cloude, and ſhineth forth freely and powerfully; if we be overclouded, and overſhadowed with any inordinate unruly paſſions, and unbeſeeming behaviour; if we riſe ſo diſtempered, and the corruption of our natures raiſe ſuch vapours and miſts in us, we are to judge our ſelves for theſe, and to take upon us <hi>Joſhuah's</hi> reſolution, <hi>I and my houſe will ſerve the Lord,</hi> Joſh. 24.16. From this generall reformation of families, God may be pleaſed to ſpare the whole Land: as many times a man ſpares a Vine that hath but one branch and cluſter of grapes upon it, if not altogether, yet at leaſt untill ſuch time as the grapes ſhall be ripe: So God ſeeing a cluſter of Chriſtians here and there, be<g ref="char:EOLhyphen"/>cauſe they cannot grow, if the Vine be cut up, God will therefore therefore ſpare the whole.</p>
+            <p>Again, though God be purpoſed to ſend out his deſtroying An<g ref="char:EOLhyphen"/>gel to lay waſte a place, yet then we have ſome helps to ſave our ſelves; There was but one good houſe in <hi>Jericho,</hi> which was <hi>Rahabs</hi> the Harlot, yet God ſpared that for ſome good ſervice done unto
+<pb n="9" facs="tcp:48591:7"/>him by her: ſo when we ſhall hold out the truth, and ſprinkle our ſelves with the blood of Chriſt, as the <hi>Iſraelites</hi> did, God ſeeing the blood of Chriſt ſprinkled upon us by our faith and repentance, wee may be ſaved from thoſe deſtroying evills that overwhelm others.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> This may quiet the hearts of Gods ſervants in temptations, though they finde many troubles in their lives, and in the right ordering of their families, they muſt not take up ſuch complaints of their houſes, husbands, children, ſervants, as to thinke that no bo<g ref="char:EOLhyphen"/>dy is ſo much troubled in theſe things as they are; for better men then they, have had worſe houſes: <hi>David</hi> had a ſpeciall care of plan<g ref="char:EOLhyphen"/>ting his houſe well, and yet ſee what corruptions are found even in his family; what diſordered, inceſtuous and bloody ſons he had in his houſe; wherefore wee may well complain of the failings of our families, if wee obſerve what want there is of the fear of God, what formall and meer outſide performing there is of many good duties; this therefore ſhould train us up in ſome patience and quietneſſe of minde and ſpirit, to walk wiſely and humbly under Gods hand, and not to pine and murmur at our eſtate and condition.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> And yet, in the third place, not ſo to be quieted with the diſ<g ref="char:EOLhyphen"/>orders in our families, as to drive us to neglect, but labour to purge them more and more, and not to ſuffer them to come in; if ſin once get an head, wee may receive many ſweet ſhowers and Sunſhines, and yet be little the better for all. If <hi>David</hi> ſpeaks it with griefe, it is then for <hi>David,</hi> and every good man, to uſe all means they can, to reform their families, to call on them to feare God, and to walk religiouſly one towards another, and not to ſuffer theſe good ſhowers and pleaſant Sunſhines, theſe profitable means to be beſtowed in vain upon them: you have a ſweet pro<g ref="char:EOLhyphen"/>miſe, <hi>Iſaiah</hi> 55.10, 11. <hi>For as the rain cometh down, and the ſnow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give ſeed to the ſower, and bread to the eater; ſo ſhall my Word be that goeth forth out of my mouth, it ſhall not return unto mee voyd, but it ſhall accompliſh that which I pleaſe, and it ſhall proſper in the thing whereto I ſent it:</hi> We are daily to intreat a bleſſing upon the means, that it may be effectuall to the end for which it is ſent.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But how may wee help our families to amend?</p>
+            <pb n="10" facs="tcp:48591:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> Wee muſt labour to obſerve what is amiſſe in one another, and labour to purge out all our corruptions; thus mutually to help one another in the knowledge of thoſe things which wee of our ſelves may be ignorant of, that ſo wee may come to cleanſe our ſelves in ſome meaſure from all ſins; and this ought we to do more eſpecial<g ref="char:EOLhyphen"/>ly, when we come to ſolemn duties, as at times of humiliation, and receiving of the holy Sacraments. It was commended in <hi>Jacob, Gen.</hi> 35.1, 2, 3, 4. when God commanded him to go to <hi>Bethel</hi> and cleanſe his houſe, his care was accordingly, to reform what was amiſſe in his family, as appeares by his charge unto them, to put away the ſtrange gods from them, to cleanſe themſelves, and change their garments; if we change our dwellings and not our ſins, the ſame evils will follow us, whitherſoever we go; conſider we there<g ref="char:EOLhyphen"/>fore, if raigning corruptions are within us, no raigning ſin what<g ref="char:EOLhyphen"/>ever but it is our God, wee muſt therefore part with it, be it never ſo deare and neer to us, and pray unto God, that hee would be pleaſed to give us ſtrength to ſubdue it, and bring it under, and not to be of their diſpoſition that will ſee no fault, that is not the way; that which is a ſtrange thing in Gods ſight, let it be ſo in ours; let us gather together all our corruptions, and burn them in ſacrifices to God; it is the ſin of a family that troubles a family, and that when no means is uſed for healing it,<note place="margin">v. 19.17.</note> 
+               <hi>Levit.</hi> 19.17. <hi>Thou ſhalt not hate thy brother in thine heart; thou ſhalt in any wiſe rebuke thy neigh<g ref="char:EOLhyphen"/>bour, and not ſuffer ſin upon him:</hi> and when God ſees no corruptions nor filthineſſe in us, hee will be readier to bleſſe us, and proſper us in all our wayes: So then wee muſt have nothing to do with our ſins, which do hinder all good things from us, but we muſt labour to gather them all together, and offer them up in ſacrifice to God, that they may vaniſh away in ſmoke, that they be no more ſeen nor heard of.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> That we may the better help forward our families in goodneſſe, wee muſt not reſt in any good means of grace wee do enjoy; for <hi>David</hi> wee ſee went further then thus, therefore we muſt not con<g ref="char:EOLhyphen"/>tent our ſelves that wee enjoy the ordinances of God, but we muſt labour to finde God in them, and his bleſſing to us in the perfor<g ref="char:EOLhyphen"/>mance of them, or elſe all is little worth: This was <hi>Hezekiahs</hi> Prayer, 2 <hi>Chron.</hi> 30. that the Lord would be <hi>mercifull to thoſe of his people that prepared their hearts to ſeek him, although they were not
+<pb n="11" facs="tcp:48591:8"/>cleanſed according to the purification of the Temple;</hi> the Lord heard his Prayer, and healed their corruptions, becauſe they ſought God in his Ordinances. Let us then alſo, following their example, ſeek God in his Ordinances, labour to feel our wants in him, teach the ſame unto our families, and ſeek him by prayer, that hee would be found of us, that ſo we may do that which becometh the Goſpel of Chriſt. And ſo much for this point.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>2</label> Again, in the ſecond place, wee may obſerve, That it is the ſtay and comfort of a godly houſholder againſt all the diſorders of his own heart and family, that God <hi>hath made an everlaſting Covenant with him, ordered in all things, and ſure.</hi>
+            </p>
+            <p>This you ſee evident in <hi>David</hi> here, <hi>Though my houſe be not ſo with God, yet God hath made with me an everlaſting Covenant, ordered in all things, and ſure.</hi> We have not walked in the feare of Gods Name, nor in righteouſneſſe towards men, yet here is our comfort, the ſtability of the Covenant of God, though wee be wanting to God, yet cannot God be wanting to us: But for opening the point, it is needfull to know theſe four things.</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. What is the Covenant <hi>David</hi> comforts himſelf in?</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2. How it is ſaid to be <hi>ordered in all things?</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. How it is ſaid to be <hi>everlaſting?</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4. How it ſaid to be <hi>ſure?</hi>
+               </item>
+            </list>
+            <p>From all theſe doth <hi>David</hi> take comfort to himſelf againſt his own failings, and the failings of his family.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, what is this <hi>Covenant</hi> here ſpoken of? This <hi>Covenant,</hi> in that he calls it <hi>everlaſting</hi> and <hi>ſure,</hi> implies it to be a Covenant of Grace, in that it hath ſuch properties annexed to it, which only belong to God; As,</p>
+            <p>Firſt, <hi>everlaſting,</hi> Jer. 32.40. <hi>I will make an everlaſting Covenant with them,</hi> &amp;c. Again, it is ſaid to be a <hi>Covenant of Grace,</hi> Rom. 4.16. and it being of Grace makes it ſure, <hi>Jer.</hi> 31.33, 34. <hi>But this ſhall be the Covenant that I will make with the houſe of Iſrael; after thoſe dayes, ſaith the Lord, I will put my Law in their inward parts, and write it in their hearts, and will be their God, and they ſhall be my people,</hi> &amp;c. where he tels you of two Covenants: The <hi>Covenant of Works,</hi> and the <hi>Covenant of Grace,</hi> this Covenant differs from the other in ſix particulars.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, the <hi>Covenant of Works</hi> was made to <hi>Adam</hi> and all his poſte<g ref="char:EOLhyphen"/>rity,
+<pb n="12" facs="tcp:48591:9"/>
+               <hi>Cain</hi> was within this Covenant, <hi>Gen.</hi> 4.7. <hi>Rom.</hi> 2.6. to the 10. <hi>Do well and you ſhall be accepted.</hi> This <hi>everlaſting Covenant</hi> is not made to <hi>Adam</hi> and his ſeed, but to <hi>Abraham</hi> and his ſeed, <hi>Gal.</hi> 3.16. <hi>he ſaith not to the ſeed as of many, but as to one of thy ſeed, which is Chriſt,</hi> being ſpoken collectively; ſo likewiſe, <hi>Gen.</hi> 17.7. <hi>Moreover, I will eſtabliſh my Covenant beween mee and thee, and thy ſeed after thee in their generations for an everlaſting Covenant, to be a God unto thee, and to thy ſeed after thee.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, they differed in the frame of their tables wherein they were written: the firſt was in ſtone after the fall, implying the Law was given to ſtony hearts, that could not be done away, and that our hearts were very dull to receive it: But this <hi>Covenant of Grace</hi> is written in the fleſhie tables of the hearts; the one gives us duties to perform, but no ſtrength wherewithall, the other affords both.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, the <hi>Covenant of Works</hi> required perfect obedience in every mans perſon, <hi>Gal.</hi> 3.10. <hi>For as many as are of the works of the Law, are under the curſe; for it is written, Curſed is every man that continueth not in all things which are written in the Law to do them,</hi> Deut. 27.17. If any man breaks this Covenant, he brings a curſe upon his own head thereby, no perſon is excepted; it is not ſo in the new Covenant; God in that required perfect obedience, but in this he requireth it to be done either in our perſons, or by our ſure<g ref="char:EOLhyphen"/>ties, <hi>Matth.</hi> 3.15. <hi>Then Jeſus anſwered, and ſaid unto him, Let be now, for thus it becometh us to fulfill all righteouſneſſe,</hi> Heb. 7.22.26. And it is tranſlated, <hi>Teſtament,</hi> becauſe man hath ſureties to a Te<g ref="char:EOLhyphen"/>ſtament; therefore it is in the originall, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, hee doth accept perfect obedience in Chriſt for us, though we cannot perform per<g ref="char:EOLhyphen"/>fect ſatisfaction, yet if our ſureties do it for us, it is all one, 2 <hi>Cor.</hi> 8.12. God accepts at our hands <hi>a willing minde,</hi> and of childe-like indeavours; if wee come with childe-like ſervice, God will ſpare us; a father will accept the poor indeavours of his childe for the thing it ſelf.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, in the <hi>Covenant of Works,</hi> the reward is given of <hi>juſtice according to works,</hi> Gen. 4.7. <hi>If thou do well, ſhalt thou not be accepted? and if thou doſt not well, ſin lieth at the door,</hi> &amp;c. Rom. 2.6. to the 12<hi rend="sup">th</hi>, Rom. 4.4. <hi>To him that works is the reward not reckoned of grace, but of debt;</hi> in the <hi>Covenant of Grace,</hi> God rewards us not according to works, but according to his grace, accepting of our deſires and indeavours.</p>
+            <pb n="13" facs="tcp:48591:9"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, in the old Covenant, there was no remiſſion of ſin; <hi>Curſed is hee that continueth not in all things that are written in the Law to do them.</hi> Now, where there is curſedneſſe for ſin,<note place="margin">Gal. 3.10.</note> there is no pardon for ſin: But in the <hi>Covenant of Grace</hi> there is a free for<g ref="char:EOLhyphen"/>giveneſſe of ſin, with a promiſe, they ſhall be no more remembred againſt us, <hi>Jer.</hi> 31.34. <hi>For I will forgive their iniquities, and remem<g ref="char:EOLhyphen"/>ber their ſins no more.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixthly, the old Covenant was ſubject ſo to be broken, as to bring confuſion upon the tranſgreſſours; but this <hi>Covenant of Grace</hi> cannot be ſo broken, as to bring confuſion upon ſuch who are within it. And thus the Lord puts a difference between them, <hi>Hebr.</hi> 8.8.9.10. For in rebuking them, <hi>hee ſaith, Behold, the dayes will come, ſaith the Lord, when I ſhall make with the houſe of Iſrael and with the houſe of Judah a new Teſtament, not like the Teſta<g ref="char:EOLhyphen"/>ment that I made with their fathers in the day that I took them by the hand, to lead them out of the land of Egypt, for they continued not in my Teſtament, and I regarded them not ſaith the Lord,</hi> &amp;c. In this place he oppoſeth the one to the other, in regard the one may be broken, and the other cannot; This <hi>Covenant of Grace</hi> God will not break, and though on our parts it may be broken, yet becauſe Chriſt hath it in keeping, it ſhall never be ſo broken, as to the deſtruction of the tranſgreſſour, <hi>Jer.</hi> 32.40. <hi>And I will make an everlaſting Covenant with them, that I will never turn away from them to do them good; but I will put my feare in their hearts, that they ſhall not depart from me,</hi> &amp;c. God will put his feare in our hearts, which ſhall work in us holy care of keeping covenant with him. The feare of God poſſeſſing our hearts, ſhall cauſe us, not to dare to commit any ſin; and there<g ref="char:EOLhyphen"/>fore, <hi>Heb.</hi> 8, 6. it is ſaid to be eſtabliſhed upon <hi>better promiſes.</hi> The old Covenant was eſtabliſhed upon our obedience, this promiſeth us both to make us obedient, and to keep us in a courſe of obedi<g ref="char:EOLhyphen"/>ence; that Covenant promiſeth no pardon upon breaches, but this doth, and further ſaith, that they ſhall <hi>be remembred no more,</hi> as <hi>Jer.</hi> 31.34.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But why is this Covenant called an ordered Covenant?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> His houſe hee knew was diſordered, but this Covenant he knew to be ordered in all things. Now this word <hi>(order)</hi> doth ſignifie unto us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, to ordain, <hi>Pſalm.</hi> 32.6. God did decree it, hee ſet it down
+<pb n="14" facs="tcp:48591:10"/>in the court of heaven, being nothing elſe but an expreſſion of the life of grace.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, <hi>to order,</hi> doth ſometimes ſignifie, to furniſh or to pro<g ref="char:EOLhyphen"/>vide, <hi>Prov.</hi> 9.2. Wiſdome is ſaid to <hi>have killed her fatlings, to have mingled her wine, and to have furniſhed her table;</hi> ſo this Covenant is provided for us, and furniſhed with all bleſſings, ſpirituall and temporall.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, ſometimes it is tranſlated, <hi>directed,</hi> Job 32.14. This Covenant was <hi>directed</hi> to <hi>David,</hi> and the ſeed of <hi>David,</hi> not left at randome, but directed to fall aright upon ſome perſon, as it were, as once it was ſaid of <hi>Joſeph,</hi> Deut. 33.16. <hi>Let the good will of him that dwelleth in the buſh, come upon the head of Joſeph:</hi> So ſhall this <hi>Covenant of Grace</hi> fall upon the heads of thoſe for whom it is ap<g ref="char:EOLhyphen"/>pointed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, becauſe it is ſet <hi>in order,</hi> ſo is this word uſed, <hi>Lev.</hi> 18. It is ſaid to be ſet <hi>in order,</hi> in regard of the grounds, means, ends, parts and perſons on whom it falls.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, for the grounds of it, and they are manifeſt unto us; firſt from the abſolute and independent ſoveraignty, God will do what ſeemeth him good in his own eyes, <hi>hee will have mercy on whom hee will have mercy,</hi> Rom. 9.15.</p>
+            <p>Secondly, Gods everlaſting love, <hi>Jer.</hi> 31.3. <hi>The Lord hath ap<g ref="char:EOLhyphen"/>peared unto me of old, ſay they; yea, I have loved thee with an everlaſt<g ref="char:EOLhyphen"/>ing love, and therefore with mercy I have drawn thee.</hi>
+            </p>
+            <p>Thirdly, from his free Grace, not reſpecting good or evill in the creature, but the good pleaſure of his will.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, it is ordered in the means, and they are ſuch as do convey it unto us, which are,</p>
+            <p>Firſt, the Lord Jeſus Chriſt, this Covenant was made with him from all eternity, <hi>Epheſ.</hi> 1.3. <hi>Bleſſed be God, and the Father of our Lord Jeſus Chriſt, which hath bleſſed us with all ſpirituall bleſſings in hea<g ref="char:EOLhyphen"/>venly things in Chriſt.</hi>
+            </p>
+            <p>Secondly, in Chriſt, and by Chriſt, hath God the Father ſealed it unto us, by his holy and bleſſed Spirit, <hi>Epheſ.</hi> 1.15.</p>
+            <p>Thirdly, by his Goſpel hath he delivered it unto us, 2 <hi>Tim.</hi> 1.10. <hi>Chriſt hath brought life and immortality to light by the Goſpel;</hi> and this is the Inſtrument whereby the grace of God is written in our hearts, 2 <hi>Cor.</hi> 3.3.</p>
+            <pb n="15" facs="tcp:48591:10"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, in the ends of it, the chiefeſt whereof is:</p>
+            <p>Firſt, that God might be glorified in his free love; it ſets forth unto us <hi>the riches of his grace,</hi> Epheſ. 1.6.</p>
+            <p>Secondly, that Chriſt might thereby be glorified, <hi>Joh.</hi> 5.23.</p>
+            <p>Thirdly, God hath appointed to glorifie himſelf in the ſalva<g ref="char:EOLhyphen"/>tion of his people, <hi>Epheſ.</hi> 2.2. 2 <hi>Tim.</hi> 1.9.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, this Covenant is ordered in regard of the parts, in the Covenant God promiſeth:</p>
+            <p>Firſt, Grace.</p>
+            <p>Secondly, pardon of Sin.</p>
+            <p>Thirdly, ſubduing our rebellions.</p>
+            <p>Fourthly, outward bleſſings.</p>
+            <p>
+               <hi>Hee will not take away his love from us, nor ſuffer his truth to faile, Pſal.</hi> 89.33, 34. For his love, you may reade, <hi>Jer.</hi> 31.3. where the Lord telleth his people, that <hi>hee had loved them with an everlaſting love:</hi> So for pardon of ſin, <hi>Jer.</hi> 31.34. <hi>I will forgive your iniquities, and remember your ſins no more:</hi> Likewiſe for ſubduing our corruptions, <hi>Micah</hi> 7.18, 19. <hi>Who is a God like unto thee, that pardoneth iniqui<g ref="char:EOLhyphen"/>ties, and paſſeth by the tranſgreſſions of the remnant of his heritage; hee retaineth not his anger for ever, becauſe hee delighted in mercy? He will turn again, he will have compaſſion upon us; hee will ſubdue our iniqui<g ref="char:EOLhyphen"/>ties, and will caſt all our ſins into the depth of the ſea:</hi> So likewiſe for outward bleſſings, <hi>Pſal.</hi> 84.11. <hi>The Lord is a Sun and ſhield; The Lord will give grace and glory,</hi> and <hi>no good thing will hee with-hold from them who live uprightly.</hi> If outward bleſſings be denied to us, yet will he not take away his mercy, <hi>Pſal.</hi> 89.28. <hi>My mercy will I keep for evermore, and my Covenant ſhall ſtand ſure;</hi> and ſo forward to the 34<hi rend="sup">th</hi> verſe of the ſame <hi>Pſalme.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fifthly, it is ordered in regard of the perſons to whom it is given, <hi>Gal.</hi> 3.16. it was given to Chriſt, and in Chriſt to every godly man, <hi>Gen.</hi> 17.7. and in every godly man to his ſeed; God will have ſome of the ſeed of every godly man to ſtand before him for ever.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> But why is it called <hi>a ſure Covenant?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> In Gods eternall purpoſe it was firſt framed, <hi>Epheſ.</hi> 1.4, 5. it was everlaſtingly purpoſed with God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> Secondly, in regard of the unchangeableneſſe of it it can<g ref="char:EOLhyphen"/>not be broken, it is unviolable and everlaſting, <hi>Pſal.</hi> 89.34. <hi>My
+<pb n="16" facs="tcp:48591:11"/>Covenant I will not break, nor alter the thing gone out of my mouth.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But why is it ſaid to be <hi>a ſure Covenant?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> Becauſe God is unchangeable himſelf, <hi>Mal.</hi> 3.6. <hi>I am the Lord, I change not, therefore yee ſons of Jacob are not conſumed.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> Secondly, in Chriſts perfect ſuretiſhip, <hi>Heb.</hi> 7.22. <hi>Who was made a ſurety of a better Teſtament.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>3</label> Thirdly, in regard of the firmneſſe of the Spirit of promiſe which ſealeth up to us this Covenant, and dwels in us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> How may the Spirit be ſaid to make it ſure?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> In the ſure word of promiſe that God hath made and confirmed it by an oath unto his children, <hi>that by two immutable witneſſes they might receive ſtrong conſolation,</hi> Heb. 6.18. The Spirit of God is ſaid to make it ſure to us, both by the Spirit of faith, looking for ſalva<g ref="char:EOLhyphen"/>tion by another; namely, Chriſt Jeſus, <hi>Rom.</hi> 4.16. and by the Spirit of fear, <hi>Hee will put his feare into our hearts, that we ſhall not depart from him,</hi> Jer. 32.40. And thus is the Covenant of God ſaid to be ſure, <hi>Pſal.</hi> 89.34.36. <hi>My Covenant will I not breake, nor alter the thing that is gone out of my mouth: I have ſworn by my holi<g ref="char:EOLhyphen"/>neſſe, that I will not faile David:</hi> So likewiſe a comfortable place have we in 2 <hi>Tim.</hi> 2.13. where the Apoſtle ſaith, <hi>though wee believe not, yet he abideth faithfull, he cannot deny himſelf.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> What Reaſons may there be given, why wee ſhould ſo ſupport and comfort the hearts of Gods people, when they ſee both them<g ref="char:EOLhyphen"/>ſelves and their families thus diſordered?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> Becauſe this Covenant is a ſoveraign and ſufficient medicine to heal all our diſorders, and remove all our impediments; what though wee on our part fail, God hath ſworn by his holineſſe he will not fail, <hi>Pſal.</hi> 89.35. It being <hi>a Covenant of Grace,</hi> is not abro<g ref="char:EOLhyphen"/>gated by our failing, though wee remain unſetled, yet God con<g ref="char:EOLhyphen"/>tinues conſtant: If his children walk not with him, but rebell againſt him, what will hee do? They ſhall feel the ſmart of his diſ<g ref="char:EOLhyphen"/>pleaſure, <hi>but his loving kindneſſe will he not take from them,</hi> Pſal. 89.30, 31, 32, 33.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> Though we and our families are diſordered, yet Gods Covenant is not, but ſtands firm and ſure; the Covenant of God compaſſed about with our diſorders, fetches them in and cures them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, whereas wee are unſetled, and unconſtant, it may be wee can pray well to day, to morrow our hearts are out of frame
+<pb n="17" facs="tcp:48591:11"/>quite, yet this Covenant remaines firme, one and the ſame.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>4</label> Fourthly, we are unſetled, and cannot ſtay, nor keep our ſelves in any good way, wee cannot lay ſure hold on this Covenant of God; yet notwithſtanding it lays hold on us, it comprehends us, when wee cannot comprehend it, and ſupports us through all.</p>
+            <p>But to come to the Uſes of the point, and in the</p>
+            <p>Firſt place, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> it is a Uſe of much conſolation to all ſuch who are troubled in themſelves, or in their families; though there be ma<g ref="char:EOLhyphen"/>ny diſorders in them, though their hearts be naught, their whole converſation naught, is there no hope for a man to ſtay himſelf in this condition? If wee ſhould periſh in this eſtate, it might be juſt with God; yet this is all my ſtay, ſaith <hi>David, Though my houſe be not ſo with God,</hi> though I and my fathers houſe be not ſo with God, yet <hi>David</hi> takes comfort to himſelf, concerning his condition from Gods Covenant; this was the root of his comfort, that God had made a certain and ſure Covenant with him, ordered in all things; therefore apply we this wiſely unto our ſelves: Let us ſearch what our own diſorders, and the diſorders of our families be, and let us acknowledge the diſorders of our ſelves and of our families what they be; let us acknowledge alſo, that wee and our families are not ſo with God; yet in all theſe diſorders wee are to comfort our ſelves, that God hath made an everlaſting Covenant with us, <hi>ordered in all things, and ſure,</hi> though wee are diſordered, yet Gods Covenant is not diſordered, though we are ſinfull and wicked, yet God loves us freely, hee will pardon us freely, hee will heal us throughly; ſo that wee ſhall not periſh, notwithſtanding our cor<g ref="char:EOLhyphen"/>ruptions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But ſome may ſay, If I could but eſtabliſh my ſelf in this Cove<g ref="char:EOLhyphen"/>nant, I might receive ſome benefit and inward comfort from it, but my heart is unſetled every day.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Conſider with your ſelves, that though your corruptions ap<g ref="char:EOLhyphen"/>peare, and grace runs low with you, though you be but tempora<g ref="char:EOLhyphen"/>ry, and things with you continually ebbing and flowing, yet Gods Covenant is ſure and unchangeable, and alwayes continues the ſame: <hi>I am JEHOVAH, ſaith the Lord, I change not, therefore yee ſons of Jacob are not conſumed,</hi> Mal. 3.6.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> If I could lay hold on this Covenant, then I might have ſome comfort in it, but all my hope is built upon a ſandy foundation.</p>
+            <pb n="18" facs="tcp:48591:12"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yet notwithſtanding Gods Covenant is firm and ſure, though your wayes and hearts are unſetled, and diſordered ſo, that God knowes not many times where to have you; yet the Covenant of God doth remain ſure and firm, therefore it is a ſoveraign medi<g ref="char:EOLhyphen"/>cine for all diſeaſes: To apply the Covenant of God unto our ſoules, though there be many diſorders in our ſelves and in our fa<g ref="char:EOLhyphen"/>milies, yet Gods Covenant is free; if we be hemm'd in within this Covenant, wee cannot break out, we might give God leave in our families to chooſe whom he will, and to take where he will. <hi>David</hi> muſt be contented with <hi>Abſolom, Abraham</hi> with <hi>Iſhmael, Iſaac</hi> with <hi>Eſau, Jacob</hi> with <hi>Simeon</hi> and <hi>Levi, CHRIST</hi> with <hi>Judas;</hi> and for the corruptions wee ſee in our families, wee are to take comfort to our ſelves, that the Covenant of God can heal all theſe iniquities, theſe iniquities in his due time he will ſubdue. To <hi>ſubdue</hi> is a me<g ref="char:EOLhyphen"/>taphor taken from beaſts which have ſtiffe necks, and will not bow to the yoak.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> I, but the good things in us are like the morning dew, or cloud that paſſeth away; righteouſneſſe ſometimes putteth forth it ſelf very ſavourly in the beginning, but ſuddenly vaniſheth away.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yet Gods Covenant is ſure and everlaſting, and that decayes not at all.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But if I could in ſome meaſure be eſtabliſhed in good wayes, I might thereby receive ſome comfort to my ſoul.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Yet notwithſtanding all this, Gods Covenant is ſure and ever<g ref="char:EOLhyphen"/>laſting, and certain, <hi>having this ſeal upon it, The Lord knowes who are his:</hi> What though a whole kingdome be diſordered, uncon<g ref="char:EOLhyphen"/>ſtant, and unſetled, though our kingdome be not ſo as God re<g ref="char:EOLhyphen"/>quires, yet his Covenant is ſure, he will deal well with us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> The ſecond Uſe is to teach every man and woman, what ever they do elſe, to labour ſpecially to ſhroud and ſhelter themſelves un<g ref="char:EOLhyphen"/>der this Covenant, that they may be kept ſure in all diſorders: Let them ſtrive to enter within it, and till they have thus far prevailed, not to give over labouring for it: What comfort were it to a man, that neither his offences, nor the iniquities of others ſhould over<g ref="char:EOLhyphen"/>throw him, or move his ſtanding? if we can but ſay as <hi>David</hi> did, this Covenant is ordered and ſure, and that this is all our deſire and ſalvation, wee are then out of danger, wee need not to fear, our eſtates and conditions are well enough, wee are under the ſhadow,
+<pb n="19" facs="tcp:48591:12"/>of his wings, where nothing ſhall annoy or hurt us at any time.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> I, but if a man be not entred into Chriſts Covenant, how may hee enter into it, or if he be, how may he know it?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> For the anſwer of this, conſider with your ſelf, whether any of your anceſtors have been under this Covenant, yea or no; if they have, whether then have you renounced this Covenant, or laid claim to it? If you can ſay, you have known ſome of your an<g ref="char:EOLhyphen"/>ceſtors in this Covenant, and you have not refuſed it, but laid claim unto it, when you underſtood your ſelves, it is a certain ſigne this Covenant reacheth to you, for the Covenant of God is, <hi>I will be thy God, and the God of thy ſeed after thee,</hi> Gen. 17.7.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But how if I know not whether any of my anceſtors were good or no, what muſt I do then that I may be under the Covenant?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> For the anſwer of this, have you not lived in ſome good families? it is a great ſtay to you if you have, for this reacheth to all; the Covenant is made to the houſholders and their ſervants: <hi>Abraham</hi> circumciſed all his houſe by vertue of this, <hi>I am a God to thee, and to thy ſeed,</hi> Gen. 17.7. So that unleſſe they have abroga<g ref="char:EOLhyphen"/>ted this Covenant, it followeth them ſtill, and they may claim it to themſelves.</p>
+            <p>But how if neither of the former I can challenge to my ſelf; <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> but all that I have had to deal withall have been carnall men, what may I do in ſuch a caſe to get within the Covenant?</p>
+            <p>I confeſſe then thy condition is ſo much the more to be pitied; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> but ſeeing we were not born free, wee muſt therefore take a courſe whereby wee may become free.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But what may a man do to be free?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To the end a man may be a free man of a Corporation, he muſt either ſerve for it as an apprentiſe, or elſe, as the Captain ſaid to <hi>Paul,</hi> With a great ſumme of money have I purchaſed this free<g ref="char:EOLhyphen"/>dome.</p>
+            <p>But purchaſe it wee cannot; for going thus to work, the ſame anſwer ſhall be made to us that was made to <hi>Simon Magus, Thy mo<g ref="char:EOLhyphen"/>ney periſh with thee, becauſe thou haſt thought the gift of God may be purchaſed with money,</hi> Acts 8.18, 19. The Papiſts therefore go the wrong way to work, who would bring themſelves within this Co<g ref="char:EOLhyphen"/>venant by their large gifts to edifie. What then ſhall we enter into a courſe of ſervice to be free of this Corporation? why then our
+<pb n="20" facs="tcp:48591:13"/>beſt endevors would come wonderfull ſhort of bringing us within the Covenant; wee may take much pains, and yet fall ſhort; uſe much faſting and prayer, and yet fail much of our performances of the beſt duties; yet notwithſtanding, if we give up our ſelves to be bound to this ſervice, if we come to God, ſubmit our ſelves to him in all things, to do with us as hee pleaſeth, and as ſhall ſeem good in his ſight, ſubmitting our ſelves to be ruled and ſquared by him in all things, hee ſhall have our whole hearts to do with us what he will; here is the Covenant made up between God and a good Chriſtian, God then offers himſelf to us, he is ours, and wee are his, <hi>Pſal.</hi> 27.8. <hi>When thou ſaidst, ſeek yee my face, my heart ſaid un<g ref="char:EOLhyphen"/>to thee, thy face Lord will I ſeek.</hi>
+            </p>
+            <p>You muſt herein reſolve to take heed of all ſin, labour to per<g ref="char:EOLhyphen"/>form every good duty, and be ſorry you can do it no better; not<g ref="char:EOLhyphen"/>withſtanding herein ſtands the difference between one that ſerves an apprentiſhip to become free, and one that enters into ſervice to be with God. The apprentiſe muſt ſerve ſeven yeers before he can become a free man, but the childe of God is made free that firſt day that hee gives up himſelf to God; though thou be <hi>a ſervant</hi> to an<g ref="char:EOLhyphen"/>other man, yet art thou the <hi>Lords free man,</hi> 1 Cor. 7.22. If we can but content our ſelves to be the Lords ſervants, we ſhall be his free<g ref="char:EOLhyphen"/>men; yet herein are thoſe ſervices ſutable; in the beginning an ap<g ref="char:EOLhyphen"/>prentiſes ſervice is very difficult, hee is expoſed to much hardſhip, he knowes not how to pleaſe Maſter or Miſtreſſe; if he knew their mindes, hee would be willing to frame himſelf accordingly: So when we come into Gods ſervice, if he but a little hides his face, we think preſently wee are caſt off, and that we were never any of his; but all this comes for want of experience of a Chriſtian mans life, if you can be content to break off from all your evill wayes, and with all your hearts cleave unto God, doubtleſſe then God hath made with you an <hi>everlaſting Covenant, ordered in all things, and ſure.</hi>
+            </p>
+            <p>If you be not in the Covenant, but your whole deſire is, that you may, you muſt labour to bring your ſelves into a good family, and that you may be fitted for any ſervice, you muſt deny your ſelves, and give up your mindes, wills and affections unto God, take Chriſts yoak upon you; if hee calls you to any croſſe, ſtumble not at it, but bear it patiently, and wait upon him for a deliverance out of it; and that you may the more earneſtly ſtrive to get with<g ref="char:EOLhyphen"/>in
+<pb n="21" facs="tcp:48591:13"/>this Covenant, conſider, that in ſo doing, you ſhall certainly bring a bleſſing upon you and yours; though you and your family be diſordered, yet Gods Covenant will remain firm and ſure unto you; all eſtates, though never ſo free conveyed, are nothing unto this; and therefore, as you love your ſelves, and would leave a ſure inheritance to thoſe that ſhall come after, let your ſpeciall care be, how yee may attain to this, for even a kingdome without this, is but a poor ſtate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> It muſt teach all ſuch as are under this Covenant of Grace, to walk thankfully and humbly, and faithfully: See <hi>Davids</hi> humble thankfulneſſe, 2 <hi>Sam.</hi> 7.18. <hi>Who am I, O Lord God, and what is my fathers houſe, that thou haſt ſpoken of thy ſervants houſe for a great while to come?</hi> We muſt walk fruitfully with God in the ſenſe of this Covenant, in pardon of ſins, in beating down corruptions; there is no better ſign that we are in this Covenant, then to grow thankfull for it, and humble under it, and fruitfull in communica<g ref="char:EOLhyphen"/>ting our experience unto others, and labouring to bring them with<g ref="char:EOLhyphen"/>in the compaſſe of it. Thus much for this Doctrine.</p>
+            <p>The third thing is the confining of <hi>Davids</hi> deſire and ſalvation to this Covenant, whence obſerve:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>3</label> That the ſecurity and ſufficiency of the Covenant of Gods Grace, is all the ſalvation and deſire of Gods people.</p>
+            <p>This is evident in the Text, it is all his will, the will compre<g ref="char:EOLhyphen"/>hends the <hi>deſire</hi> and the <hi>delight</hi> of a man; ſo that this Covenant is ſo compleat, that a man needs nothing more to ſalvation, or to ſatisfie his deſires and theſe two comprehend all that hath been ſaid of Gods Covenant: What is it, that he ſaith, <hi>it is all my ſal<g ref="char:EOLhyphen"/>vation and deſire? Salvation</hi> comprehends in it theſe two things:</p>
+            <p>Firſt, a deliverance from dangers.</p>
+            <p>Secondly, a ſafe comfortable and glorious eſtate; So that ſal<g ref="char:EOLhyphen"/>vation implies in it ſafety, <hi>viz.</hi> deliverance from all dangers, <hi>Pſ.</hi> 3.8. So alſo a ſafe, comfortable and glorious eſtate in heaven: When <hi>David</hi> ſaid, <hi>This is my ſalvation,</hi> his meaning is, I had never been freed from danger, nor ſet in a ſafe and glorious condition, but by vertue of this Covenant.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, this is the ſubſtance of my ſalvation; for this Cove<g ref="char:EOLhyphen"/>nant gives us ſuch hold of ſalvation, that though we have it not yet, we believe we have ſalvation by vertue of this Covenant, we are in
+<pb n="22" facs="tcp:48591:14"/>many diſcouragements, but God hath made a covenant to deliver us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, This is all my deſire (<hi>viz.</hi>) the object and ſumme of all my deſire, nothing but as it comes within the compaſſe of this, Gods glory is my deſire; as all my deſire is here, ſo all my rejoycing; for the word which is here <hi>deſire,</hi> in the firſt <hi>Pſlam,</hi> v. 2. is tranſla<g ref="char:EOLhyphen"/>ted <hi>delight:</hi> all <hi>Davids</hi> deſire and delight was in this Covenant, he took no comfort in his crown, nor that he was <hi>a ſweet Singer of Iſrael,</hi> nor in his children, though comly, nor in the ordinances of God, no further then they were wrapped up to him in this Cove<g ref="char:EOLhyphen"/>nant of God, and the Reaſon is:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> Firſt, becauſe there is no bleſſing ſafe to us, no deſire or delight, but ſo far forth as it is conveyed in this Covenant unto us.</p>
+            <p>If a man were delivered from danger, unleſſe by vertue of this Covenant, it is a cold deliverance: For, if he be ſaved from drown<g ref="char:EOLhyphen"/>ing, the gallows may claim his right of him; if the gallows cannot, hell fire will reach him, if he be not within the compaſſe of this Co<g ref="char:EOLhyphen"/>venant; if hee have credit and wealth in this world, yet if not con<g ref="char:EOLhyphen"/>veyed unto him by vertue of this Covenant, it is a miſerable eſtate; children, beauty, ſtrength, gifts may be deſired, if they come un<g ref="char:EOLhyphen"/>der this Covenant.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> Secondly, from the compleatneſſe of the ſufficiencie of this Co<g ref="char:EOLhyphen"/>venant: No deliverance we can ſtand in need of, but this Covenant can convey it unto us; all the deſires and delights of the Church are wrapped up in it, <hi>No good thing will he with-hold from them that live a godly life,</hi> Pſal. 87.7. <hi>All my ſprings,</hi> (ſaith <hi>David</hi>) <hi>are in thee;</hi> God delights in us, when we are in his Covenant, his Cove<g ref="char:EOLhyphen"/>nant reacheth to his Church, and wee being members of that Church: Hence it comes to paſſe, that we partake of all the plea<g ref="char:EOLhyphen"/>ſant ſprings of Gods love, and rich mercies to us in Chriſt Jeſus.</p>
+            <p>For the Uſe of this point.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Firſt, it may ſerve to teach men and women, be their condition never ſo happy otherwiſe, not to reſt contented in any ſtate what<g ref="char:EOLhyphen"/>ſoever, untill they have gotten themſelves within this Covenant, that they would not think themſelves out of danger, nor well pro<g ref="char:EOLhyphen"/>vided, till they can thus aſſure themſelves they are within this Co<g ref="char:EOLhyphen"/>venant; wee ſhould not have our deſires ſo ſtrait and narrow, as to be ſatisfied with earthly things at any time, <hi>Pſal.</hi> 81.10. Open thy mouth wide, and I will fill it, gape after greater things then
+<pb n="23" facs="tcp:48591:14"/>theſe, breath after this everlaſting Covenant; <hi>Lift up your heads, O yee gates, and be yee lift up yee everlaſting doors, and the King of glory ſhall come in,</hi> Pſal. 24.9. Cloſe you not therefore with theſe things, they will yeeld you but little content; <hi>the wicked inlarge their deſire as hell it ſelf;</hi> they will travell all the world over from Sea to Sea to get wealth; how then ſhould wee enlarge our hearts, and gape wide after heavenly things that are of an everlaſting continuance, untill wee are in a ſafe and ſure condition, and let all our deſires be after the <hi>Covenant of Grace?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>2</label> Secondly, if wee are in this <hi>Covenant of Grace,</hi> we may then law<g ref="char:EOLhyphen"/>fully comfort our ſelves in the injoyment of all other good things whatſoever, becauſe all mercies and bleſſings ſpring up from this <hi>Covenant of Grace;</hi> and herein ſhould we fix all our deſires, all our ſalvation and delights, <hi>Jer.</hi> 9.23.24. <hi>Thus ſaith the Lord, Let not the wiſe man glory in his wiſdome, nor the mighty in his might, nor the rich man in his riches, but let him that glorieth, glory in this, that hee underſtandeth and knoweth mee, that I am the Lord which exerciſeth judgement and loving kindneſſe in the earth.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> Thirdly, it may ſerve to teach every godly man, who hath a part in this <hi>Covenant,</hi> to make account that he hath full poſſeſſion of his ſalvation, that all his deſires and delights are ſatisfied; if wee have but this <hi>Covenant,</hi> we do not well to deſire any thing more: for in it are contained all things, and having it, we have all things; are Gods children in any dangers? are they overcome with any ſor<g ref="char:EOLhyphen"/>rows? let them but conſider of this <hi>Covenant</hi> of God made unto them in the blood of Chriſt, and they ſhall find comfort ſufficient to ſupport them through all: Why doubt we of deliverance from ſin, or any danger? none evill can befall us by vertue of this <hi>Covenant;</hi> if wee therefore want any thing, let us conſider what a covenant wee are in.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> Fourthly, it is a comfort for all Gods children, that they are ſafe from all dangers, and have ſalvation already, 2 <hi>Tim.</hi> 1.9. <hi>Who hath ſaved us, and called us with an holy calling;</hi> we are put into a covenant of ſalvation, let us therefore be thankfull to God for it, and doubt no longer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>5</label> Fifthly, thoſe that are in this <hi>Covenant,</hi> they muſt make uſe of it to the perfecting of their ſalvation, and fulfilling of their deſires. You will ſay, you finde your ſins not pardoned, and you are <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <pb n="24" facs="tcp:48591:15"/>
+            <p> troubled about them, if you be within this <hi>Covenant,</hi> your ſins are pardoned unto you. But you will ſay, ſtill I finde ſin ſtriving, and corruption breaking forth; Well, have you given up your ſelves to be Gods ſervants, to bow and ſubmit your ſelves to his holy and bleſſed will in all things, here is then a covenant for thee, promiſing pardon of ſin,<note place="margin">Micah 7.18.</note> 
+               <hi>who is a God like thee, forgiving iniquity, tranſgreſſi<g ref="char:EOLhyphen"/>on, and ſin,</hi> and paſſing by offences.</p>
+            <p>But you will ſay, your corruptions are ſtrong, and you cannot get power over them.</p>
+            <p>Here is ſalvation to deliver thee from the bondage of thy ſins.</p>
+            <p>But you will ſay further, you are ſubject to long ſickneſſes, and diſeaſes very tedious; yet notwithſtanding here is conſolation enough in this <hi>Covenant</hi> for thee, to ſave thee at length out of all.</p>
+            <p>You will further ſay, you want the comfort of this <hi>Covenant;</hi> conſider this is a comfort making up your deſires unto you, ſo far as the Lord ſees meet; if in croſſes you would not depart from God, nor ſit looſe from him, God hath promiſed you ſhall not; therefore make uſe of it for this end: Do you that are parents de<g ref="char:EOLhyphen"/>ſire that your children, and all that belongs to you may do well in this life? having this <hi>Covenant</hi> you have all, you only want a heart fitted and diſpoſed to apply it unto your ſelf; plead you therefore with God, and intreat him, that hee would be pleaſed to make good this <hi>Covenant</hi> unto you. Thus much for the third point raiſed from the words.</p>
+            <p>Further, ſaith hee, <hi>Although he make it not to grow,</hi> his meaning is, that although God make not his family to grow in this world, but cauſe it to ſee hard times, and undergo many croſſes and troubles, yet this is his comfort, and all the ſtay of his heart, and his ſalvation, That God hath made with him <hi>an everlaſting Cove<g ref="char:EOLhyphen"/>nant, ordered in all things and ſure.</hi> So that the point to be obſerved from hence is this:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>4</label> That howſoever God deals with our families, yet the <hi>Covenant of Grace</hi> muſt be to us the ſatisfying of our deſires and delights, and the ſumme of our ſalvation. This <hi>Covenant</hi> God made to us, and let that ſuffice us in all; it was that wherewith God ſupported <hi>Paul</hi> when there was ſent unto him <hi>a meſſenger from Satan to buffet him, My grace</hi> (ſaith the Lord) <hi>is ſufficient for thee.</hi> This <hi>Covenant of</hi> thy is ſufficient to pardon ſin, and to heal ſin; therefore, whe<g ref="char:EOLhyphen"/>ther
+<pb n="25" facs="tcp:48591:15"/>
+               <hi>Paul</hi> proſpered or proſpered not in his ſpirituall ſtate, he muſt be contented, for Gods grace is ſufficient for him: <hi>David</hi> ſaw his houſe would fall upon ſtrange changes in regard of the great fail<g ref="char:EOLhyphen"/>ings of his children, that they ſhould be carried away captive, and in a manner, into obſcurity of darkneſſe, through Gods with<g ref="char:EOLhyphen"/>drawing the light of his countenance from ſhining upon them, oc<g ref="char:EOLhyphen"/>caſioned by the great diſorders that were before ſeen in it; this his condition he might have ſeen in <hi>Ethan</hi> the <hi>Ezrabite,</hi> who lived in his dayes, <hi>Pſal.</hi> 89 39. Though before hee ſaw all this evill, yet this was ſufficient for him, though his houſe proſpered not, that God had promiſed in his <hi>Covenant</hi> that hee would not forſake him and his, although hee made them not to grow; and the Reaſons are:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> Firſt, becauſe God had made a promiſe, that our houſes ſhall ſtand for ever, though they do not ſprout nor flouriſh like a branch, yet God will not take away his mercies from them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Secondly, hee hath promiſed to ſanctifie ſuch croſſes, that their proud hearts ſhould be humbled, and that they ſhould become bet<g ref="char:EOLhyphen"/>tered for that which they have ſuffered, they ſhall thereby be brought to acknowledge Gods great mercy unto them, and all their croſſes, trialls and afflictions ſhall at length turn to their great advantage.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> Thirdly, how ever God deals with us in outward things, yet his <hi>Covenant</hi> is a certain ground for our eternall inheritance; although a mans houſe may be turned upſide down, yet notwithſtanding here is our comfort, we have our eternall happineſſe in the higheſt hea<g ref="char:EOLhyphen"/>vens, <hi>Luke</hi> 12.32. <hi>Fear not little flocke, it is your Fathers good pleaſure to give you your inheritance.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Firſt, it may ſerve to prove a diſtempered paſſion of our ſpirits, who cannot be perſwaded Gods <hi>Covenant</hi> reacheth to us, unleſſe we proſper in the world; wee ſhould rather be men after Gods own heart, as <hi>David.</hi> See how <hi>David</hi> carried himſelf in the like caſe and condition, he doth reſt himſelf in Gods <hi>Covenant,</hi> whether his houſe grow or grow not; but we are of another ſpirit, though wee know Gods <hi>Covenant is everlaſting and ſure,</hi> yet unleſſe our children be great ones, and all may proſper in the world, according to the deſire of our hearts, we think we have no favour in the <hi>Covenant</hi> of Gods grace; alas, all things are counted otherwiſe but as dry things,
+<pb n="26" facs="tcp:48591:16"/>like Manna, which at length the children of <hi>Iſrael</hi> began to loath and hate: As concerning the light afflictions, which are but mo<g ref="char:EOLhyphen"/>mentary, herein wee ſhould comfort our ſelves, that God will tem<g ref="char:EOLhyphen"/>per all to our everlaſting happineſſe, as in the iſſue thereof wee ſhall ſee. This pride of nature was the ſin of <hi>Human,</hi> Eſt. 5.13. all availed him nothing as long as <hi>Mordecai</hi> the <hi>Jew</hi> did not bow to him. If other mens ſheafs may not bow to ours, then wee think all little worth beſides; but this is a grievous ſin againſt God: it argues a baſe eſtimation of the <hi>Covenant</hi> of Gods grace; it is a ſin to be reproved and rooted out. Wee think, becauſe God doth not make our houſes to grow and flouriſh, that there is no contentment to be found in the <hi>Covenant of Grace:</hi> This ſin of pride was alſo in <hi>Hezekiah,</hi> in ſhewing to the <hi>Babyloniſh</hi> men all his garments and precious Jewels.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> Secondly, we muſt learn to grow in the <hi>Covenant of Grace,</hi> though we ſhould never grow great, nor riſe high in this world, nor in the things thereof, we muſt reſt ſatisfied in and by the <hi>Covenant</hi> of Gods grace. If <hi>David</hi> think it ſufficient, ſo muſt we. What though wee be neglected in the world, and finde no contentment in out<g ref="char:EOLhyphen"/>ward things, yet this may ſerve to quiet the hearts of Gods chil<g ref="char:EOLhyphen"/>dren, that though they grow not much in the world, yet having a part in the <hi>Covenant of Grace,</hi> they need not to trouble themſelves about any other thing that is wanting to them; this condition is a happy condition.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> Thirdly, it may teach every righteous Houſholder and Parent, to take more care to leave a good covenant to their children and ſervants then any thing elſe. If they have but this portion left to them, they ſhall do well, whether they grow and proſper in the things of this world or no, God hath made a <hi>Covenant</hi> with the Parents and Houſholders, and it ſhall deſcend upon them ſo far as God doth order it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>4</label> Fourthly, it may ſerve to help our faith in the deſolations of the Churches abroad, though they grow not but decay, yet ſeeing God hath made a <hi>Covenant</hi> with their fathers, and undertaken to do them good, they will at length prove the better for it, and God will make his <hi>Covenant</hi> good unto them; all that God doth exer<g ref="char:EOLhyphen"/>ciſe them withall, is that hee may do them good at length, Gods <hi>Covenant</hi> being an <hi>everlaſting Covenant,</hi> their condition at laſt ſhall be a glorious condition.</p>
+            <pb n="27" facs="tcp:48591:16"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>5</label> Fifthly, it may be uſefull to all ſuch, who have part in the <hi>Cove<g ref="char:EOLhyphen"/>nant</hi> of God, that undoubtedly, at length it ſhall be well with them, though God never make them nor theirs to grow in outward things, yet they may reſt upon the <hi>Covenant,</hi> there is enough for them. Re<g ref="char:EOLhyphen"/>joyce we then in this <hi>Covenant,</hi> for it is an <hi>everlaſting Covenant;</hi> and let us make it our chiefeſt happineſſe, that wee have a part in it, though wee and others ſeem not to our ſelves to grow, yet wee ſhall grow, ſo far as God ſees it meet for us to grow, although we for our parts perceive it not, <hi>Iſaiah</hi> 3.10, 11. <hi>Say to the righteous, it ſhall be well with them, for they ſhall eat the fruit of their own doings, but wo to the wicked, for it ſhall be ill with them, for the reward of his hands ſhall he given unto him.</hi> It ſhall be ill with <hi>Rome</hi> and her ad<g ref="char:EOLhyphen"/>herents; the <hi>Covenant of Works</hi> ſhall be required at their hands.</p>
+         </div>
+         <div type="doctrine">
+            <head>A Doctrinall Concluſion.</head>
+            <head type="sub">That there be in all ſuch as are effectually called and united unto Chriſt, in-dwelling ſpirituall gifts of grace, wrought and created in us by the Holy Ghoſt, that is, by the beget<g ref="char:EOLhyphen"/>ting whereof, we are begotten and renewed to a ſpirituall life unto God, and ſo become fit members of his Church.</head>
+            <p>The opening of the terms of this Doctrine.</p>
+            <p>BY <hi>gifts of Grace,</hi> I mean holy qualities, the ſame which Philo<g ref="char:EOLhyphen"/>ſophers call <hi>vertuous habites,</hi> or <hi>good diſpoſitions,</hi> whereby the faculties and affections of the ſoule, which by corrupt nature are ſet upon a mans ſelf, and earthly things, and cannot ſavour the things of God (and ſo are ſaid to be dead) are hereby ſanctified, and lifted up to God, and ſet upon him and heavenly things, and ſo are ſaid to be quickened and made alive to God. Whence we are ſaid to be <hi>begotten again to a lively hope,</hi> 1 <hi>Pet.</hi> 1.3. and the faith of the righ<g ref="char:EOLhyphen"/>teous is oppoſed to the dead faith of vain men, <hi>Jam.</hi> 2.20. Theſe gifts we ſay are wrought, or created by the Holy Ghoſt, becauſe they are the fruits or effects of the Spirit of God in us, <hi>Gal.</hi> 5.22, 23. wrought by his Almighty creating power out of nothing, <hi>Col.</hi> 2.12. <hi>Pſ.</hi> 5 1.10.
+<pb n="28" facs="tcp:48591:17"/>and thereby making us ſpirituall men, 1 <hi>Cor.</hi> 2.15. And fit Inſtru<g ref="char:EOLhyphen"/>ments for Gods ſpirituall ſervice, 1 <hi>Pet.</hi> 2.5. and therefore every one of theſe gifts of grace, whereby any faculty or affection of the ſoule is ſanctified, it is called the ſpirit of ſuch a faculty or affection, as the ſanctified diſpoſition of the mind is called, <hi>The ſpirit of a ſound minde,</hi> 2 <hi>Tim.</hi> 1.7. The ſpirit of Faith is <hi>the gift of Faith,</hi> 2 Cor. 4.13. The ſpirit of love, or of the fear of the Lord, are <hi>the gifts of holy love, and fear ſanctifying ſuch affections,</hi> 2 Tim. 1.7. Iſai. 11.2. Further, we ſay theſe gifts of grace are <hi>in-dwelling,</hi> and abiding in every child of God, <hi>effectually called and united unto Chriſt;</hi> in as much as they are neither mortified and extinguiſhed in us (as ſome would have it) by our union with Chriſt, (for mortification is of corrupt luſts, or of the body of ſin in us, <hi>Col.</hi> 3.5. <hi>Rom.</hi> 6.6. not of the gifts of grace;) neither are theſe gifts of grace tranſient and paſſing away, as they would be, if they were meer actions of the Spirit, proceeding and paſſing from us: Nor are they abiding in the Holy Ghoſt, (though he abideth in us) becauſe no created gifts or qualities abide in him; (whatſoever is in him is himſelf:) but they are preſerved in us by the Holy Ghoſt (as they were wrought by him) and are alſo by him increaſed and perfected in us, againſt the day of our diſſolution, when we ſhall <hi>be preſented blameleſſe without ſpot or wrincle before the preſence of his glory.</hi>
+            </p>
+            <p>Reaſons of the point.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> The firſt Reaſon is taken from the expreſſe teſtimony of Scrip<g ref="char:EOLhyphen"/>ture, ſpeaking of the gifts of the Holy Ghoſt, as being in us, and fruitfull in us, 2 <hi>Pet.</hi> 1.5, 6, 7, 8. <hi>Adde moreover</hi> (ſaith hee) <hi>to your faith vertue; and to vertue, knowledge; and to knowledge, temperance; and to temperance, patience; and to patience, godlineſſe; and to godlineſs, brotherly kindneſſe; and to brotherly kindneſſe, love: For, if theſe things be in you, and abound, they make you, that you ſhall neither be barren, nor unfruitfull in the knowledge of our Lord Jeſus Chriſt.</hi> From whence the Reaſon is concluded, thus: Faith, Vertue, Knowledge, Tempe<g ref="char:EOLhyphen"/>rance, Patience, Godlineſſe, Brotherly-kindneſſe, Love, they are all in us, and make us fruitfull in Chriſt. The Text is plain; but all theſe are neither the Holy Ghoſt himſelf, for then one Holy Ghoſt ſhould be added to another; or one part of the Holy Ghoſt, ſhould be added to another. Nor are they the actions of the Holy Ghoſt proceeding from us; (for theſe things are in us, and abound<g ref="char:EOLhyphen"/>ing
+<pb n="29" facs="tcp:48591:17"/>in us, and conſequently abiding in us; and they cauſe us to bring forth actions meet for Chriſtian profeſſion: For they are ſaid to make us fruitfull in the knowledge of Chriſt, <hi>verſ.</hi> 8. Therefore they are the gifts of grace abiding in us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> The ſecond Reaſon is taken from ſuch places of Scripture, as put an expreſſe difference between the Holy Ghoſt and his gifts in us; and the exerciſe of theſe gifts by us. In 2 <hi>Tim.</hi> 1.6. <hi>Stirre up</hi> (ſaith <hi>Paul</hi> to <hi>Timothy</hi>) <hi>the gift of God which is in thee;</hi> and verſ. 14. <hi>that good Treaſure</hi> (or thing) <hi>which was committed to thee, keep by the Holy Ghoſt which dwelleth in us:</hi> where there is a plain difference between the gift of God, and the ſtirring up of that gift, which is the exerciſe of it, and the Holy Ghoſt which helped him to keep it, and to uſe it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But hee ſpeaketh of miniſteriall gifts, not of gifts accompanying ſalvation.</p>
+            <p>He ſpeaketh of both: <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> for in the verſe next before (<hi>verſ.</hi> 5.) hee putteth <hi>Timothy</hi> in minde of the <hi>unfeigned faith which</hi> (ſaith hee) <hi>is in thee, and which dwelt firſt in thy grandmother</hi> Lois, <hi>and in thy mother</hi> Eunices, <hi>and now in thee alſo.</hi> Whence the Reaſon is plain, If un<g ref="char:EOLhyphen"/>feigned faith, and other ſuch like gifts of God, dwelt in <hi>Timothy,</hi> and in his mother, and in his grand-mother, then there be gifts of grace accompanying ſalvation, that dwell in ſuch as are effectually called. But the former is plain out of the Text, therefore ſo is the latter. In 2 <hi>Cor.</hi> 6.6. the Apoſtle ſaith, <hi>He</hi> (with the other Apoſtles) <hi>approved themſelves as the Miniſters of Chriſt, by pureneſſe, by knowledge, by long-ſuffering, by kindneſſe, by the Holy Ghoſt, by love unfeigned.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But by theſe, <hi>Paul</hi> and the reſt approved themſelves as the Mi<g ref="char:EOLhyphen"/>niſters of Chriſt; and therefore hee ſpeaketh of miniſteriall gifts, not of gifts accompanying ſalvation.</p>
+            <p>The inference is naught; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> for a man cannot approve himſelf as a Miniſter of Chriſt by miniſteriall gifts, without ſuch gifts as do ac<g ref="char:EOLhyphen"/>company ſalvation; and therefore the Apoſtle doth plainly in<g ref="char:EOLhyphen"/>ſtance, not only in miniſteriall gifts, but ſuch alſo as do accompa<g ref="char:EOLhyphen"/>ny ſalvation; as <hi>pureneſſe, long-ſuffering, love unfeigned.</hi> In 1 <hi>Cor.</hi> 12.4. The Apoſtle ſaith, <hi>there be deverſities,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, <hi>of gifts of grace,</hi> which he diſtinguiſheth from operations, <hi>verſ.</hi> 6.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But hee ſpeaketh of miniſteriall gifts, not of gifts accompany<g ref="char:EOLhyphen"/>ing ſalvation.</p>
+            <p> Hee ſpeaketh not only of miniſteriall gifts, but of all gifts of
+<pb n="30" facs="tcp:48591:18"/>grace, by which we are knit to Chriſt, and one to another, as head, and members of one body; and in reſpect of which, <hi>The eye cannot ſay to the hand, I have no need of thee; nor the head to the feet, I have no need of you,</hi> verſ. 21.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> The third Reaſon is taken from the eſtate of the perſon united to Chriſt, which being united, is not a naturall, but a ſpirituall man. The Reaſon ſtandeth thus: If there be no ſpirituall gifts of grace wrought and created in the ſoul, then Chriſt is united by the Spirit of God to the naturall man; For without ſpiritual gifts, there is no<g ref="char:EOLhyphen"/>thing but nature in us, to which Chriſt by his Spirit is united. But Chriſt is not united by the ſpirit to the naturall man. Proof of this, 1 <hi>Cor.</hi> 2.14. <hi>The naturall man doth not receive the things of God, nor of the Spirit of God;</hi> and therefore doth not receive Chriſt united to him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> A man is not a naturall man, but a ſpirituall man, when the Spi<g ref="char:EOLhyphen"/>rit of God dwelleth in him.</p>
+            <p>True, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> becauſe the Spirit of God where he dwelleth, worketh gifts of ſpirituall grace; but if he ſhould not, the ſoul would be ſtill natu<g ref="char:EOLhyphen"/>rall, as the Temple of <hi>Solomon</hi> was ſtill a materiall Temple, (not a ſpirituall Temple, as wee are, 1 <hi>Pet.</hi> 2.5.) though God dwelt in it, becauſe hee wrought not gifts of ſpirituall grace in the Temple, whereby it might live unto God.</p>
+            <p>In all union, <milestone type="tcpmilestone" unit="unspecified" n="2"/> the things united are diſtinct from the bond by which they are united; Chriſt is one thing, the ſoul is another, the Spirit of God that uniteth them is diſtinct from both. Now, take the Spirit of God as a diſtinct thing from the ſoul, and what is the ſoul but a naturall ſoule? And ſo Chriſt by his Spirit being united to the naturall ſoul, is united to the naturall man.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>4</label> The fourth Reaſon is taken from the nature and kinde of that life which the members of Chriſt do live: thus, If the members of Chriſts body be living members, and living ſtones, then they live either by ſome gifts of ſpirituall grace created in them, or elſe they live the uncreated life of the Holy Ghoſt, communicated to them. But they do not live the uncreated life of the Holy Ghoſt commu<g ref="char:EOLhyphen"/>nicated to them; therefore they live by the gifts of ſpirituall grace created in them. The former Propoſition (or <hi>major</hi>) is plain, be<g ref="char:EOLhyphen"/>cauſe the diſ-junction is immediate: there is no middle way can be given, but either wee <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt live a created life by ſome gifts of ſpiritu<g ref="char:EOLhyphen"/>all
+<pb n="31" facs="tcp:48591:18"/>grace created in us, or elſe we muſt live the uncreated life of the Holy Ghoſt communicated to us. The latter Propoſition (or <hi>minor</hi>) is as plain; for no creature (if being finite) can live an increated life, which is infinite; but we are creatures, and finite, and the life of the Holy God is increated, and infinite; therefore wee cannot live his life.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> The life of head, and members, root and branches, is the ſame.</p>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> the life of Chriſts humane nature is not the infinite and un<g ref="char:EOLhyphen"/>created life of the Holy Ghoſt; which may ſerve for another proofe of the latter Propoſition, that wee do not live the uncreated life of the Holy Ghoſt communicated to us: For we cannot live an higher or greater ſpirituall life, then the humane nature of Chriſt lived. But the humane nature of Chriſt lived not the infinite and uncrea<g ref="char:EOLhyphen"/>ted life of the Holy Ghoſt; for the humane nature of Chriſt was not capable of the infinite attributes of the divine nature; againſt which, when <hi>Eutiches</hi> taught otherwiſe, he was condemned for an Heretique in the generall Councell of <hi>Chalcedon.</hi>
+            </p>
+            <p>The compariſon muſt be ſtretched no further then Chriſt inten<g ref="char:EOLhyphen"/>ded to ſhew the meer conjunction between Chriſt and us, ſo far, <milestone type="tcpmilestone" unit="unspecified" n="2"/> as that we derive and receive continuall nouriſhment and ſupply of all grace, and fruitfulneſſe thereof from him: But not to imply the ſame individuall life in him and us, as is in the root and branches, head and members; for root and branches make but one tree, and head and members make but one perſon: But wee are not the ſame perſon with Chriſt, and therefore wee have life not the very ſelf-ſame with his, but conformable to his, and faſhioned after his Image; the ſame with his in proportion and reſemblance (as is the Image of the ſeal and of the wax) the ſame in proportion, not the ſame in number. And this muſt needs be ſo, becauſe the fathers before Chriſt, had as truly the ſame ſpirituall life of Chriſt as wee; the life of his divine nature neither of us have, the life of his humane nature was not then in being; and therefore they had only a pro<g ref="char:EOLhyphen"/>portion and reſemblance of his life before his coming, as wee have after his coming.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>5</label> The fifth Reaſon is taken from the change of the heart in con<g ref="char:EOLhyphen"/>verſion: It ſtandeth thus; If in converſion there be ſome thing a<g ref="char:EOLhyphen"/>new created and begotten in us, which was not created, nor begot<g ref="char:EOLhyphen"/>ten before, then there be new ſpirituall gifts of grace created and
+<pb n="32" facs="tcp:48591:19"/>begotten in us: For the ſubſtance of the ſoul and body is not a<g ref="char:EOLhyphen"/>new-created and begotten; it is the ſame it was before, and the Holy Ghoſt cannot be ſaid to be created or begotten in us at all: but in converſion the Lord doth create a new heart in us, <hi>Pſ.</hi> 51.10. and doth regenerate, or renew a right ſpirit in us, beſide the Holy Ghoſt, of which he ſaith in the next verſe (<hi>verſ.</hi> 11.) <hi>Take not thy ho<g ref="char:EOLhyphen"/>ly Spirit from mee.</hi> The Holy Ghoſt cannot be ſaid to be created or renewed, for he is no creature, nor was he ever old: And in <hi>Ezek.</hi> 36.26, 27. hee promiſeth to put a new ſpirit within us, <hi>verſ.</hi> 26. and withall, promiſeth to put his own Spirit within us, <hi>verſ.</hi> 27. And his Spirit and our ſpirit are made two diſtinct witneſſes, <hi>Rom.</hi> 8.16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>6</label> The ſixth Reaſon is taken from the Law written in our hearts, under the <hi>Covenant of Grace;</hi> thus: If there be a law written in our hearts under the <hi>new Covenant,</hi> then either this is the Holy Ghoſt himſelf, or ſpirituall gifts of grace wrought in our hearts by the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, whereby we are fitted and enabled (through his leading) to walk in the Law of God, and to keep it. But there is a Law writ<g ref="char:EOLhyphen"/>ten in our hearts under the <hi>new Covenant,</hi> Jer. 31.33. and this Law is not the Holy Ghoſt himſelf, for it is the effect and work of the Holy Ghoſt, 2 <hi>Cor.</hi> 3.3. where it is ſaid to be written by him; now a Law, or an Epiſtle written by any man, cannot be the man him<g ref="char:EOLhyphen"/>ſelf that wrought it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>7</label> The ſeventh Reaſon is taken from the voluntary concourſe of every child of God, with the Holy Ghoſt in every ſpirituall work; the Reaſon is framed thus: If there be no ſpirituall gifts of grace in the ſoule united to Chriſt, then in every good action the Holy Ghoſt acts immediately the naturall faculties and affections to ſu<g ref="char:EOLhyphen"/>pernaturall effects: (as ſuppoſe he then acteth immediately my na<g ref="char:EOLhyphen"/>turall love to the ſupernaturall love of God) But in every good action the Holy Ghoſt doth not act immediately the naturall fa<g ref="char:EOLhyphen"/>culties and affections to ſupernaturall effects. Proof of this: If the Holy Ghoſt in every good action do act immediately my naturall faculty or affection to a ſupernaturall effect, then in every good action hee turns the courſe of my naturall faculty or affection againſt his proper and voluntary bent: For my naturall faculty or affection hath no proper or voluntary bent to ſpirituall good ef<g ref="char:EOLhyphen"/>fects, but luſteth againſt them, <hi>Rom.</hi> 8.5. <hi>Gal.</hi> 5.17. But the Holy Ghoſt in every good action doth not turn the courſe of my faculty
+<pb n="33" facs="tcp:48591:19"/>and affection againſt their proper and voluntary bent; For then we ſhould not do good actions voluntarily, and then they would be un<g ref="char:EOLhyphen"/>welcome and grievous to us, contrary to 1 <hi>Joh.</hi> 5.3. and then we ſhould loſe our reward, 1 <hi>Cor.</hi> 9.17.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But God himſelf is ſaid to be our gifts and graces, and therefore they are nothing but his Spirit in us: As God is ſaid to be our confi<g ref="char:EOLhyphen"/>dence (which is all one with faith) <hi>Pſal.</hi> 65.5. So he is ſaid to be our hope, <hi>Jer.</hi> 14.8. <hi>Pſal.</hi> 71.5. our love, our love it ſelf, 1 <hi>Joh.</hi> 4.16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Firſt, God is ſaid to be our confidence, and hope, becauſe he is the object of our faith and hope; and therefore wee are ſaid, <hi>to put our confidence,</hi> or <hi>to believe on him,</hi> 1 <hi>Pet.</hi> 2.6. Now if it were meant God is the very grace of faith, or confidence which is in us, then when we believe, or put our confidence on God, we ſhould put God upon God, which were abſurd; and if ſomething were lacking in our faith (as there is, 1 <hi>Theſ.</hi> 3.10.) then ſomething were lacking in God: And if it were meant that God is the grace of that hope which is in us, then when <hi>David</hi> prayed, he might not be aſhamed of his hope, hee meant, that he might not be aſhamed of his God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> God alſo may be ſaid to be our confidence, or hope, becauſe hee is the author and giver of theſe gifts to his people, <hi>Pſal.</hi> 119.49.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> God is ſaid to be our love, becauſe whatſoever is good in the crea<g ref="char:EOLhyphen"/>ture, is in God eminently, and infinitely, and ſo is God himſelf: But if God were that grace of love (which is ſaid to abide in us, 1 <hi>Cor.</hi> 13.13.) then God were a fruit of the Spirit, for that love which dwelleth in us, is a fruit of the Spirit, <hi>Gal.</hi> 5.22.</p>
+            <p>The Lord ſcatter our darkneſſe, and lead us by his Spirit of light and truth, into all truth, through Chriſt.</p>
+         </div>
+         <div type="profession_of_faith">
+            <pb n="34" facs="tcp:48591:20"/>
+            <head>A Profeſsion of Faith, made by the Reverend Divine, M<hi rend="sup">r.</hi> 
+               <hi>John Davenport,</hi> at his admiſſion into one of the Churches of God in <hi>New-England,</hi> viz.</head>
+            <head type="sub">I believe with all my heart, and confeſſe with my mouth.</head>
+            <div n="1" type="article">
+               <head>1. Concerning the Scriptures.</head>
+               <p>THat all Scripture is by divine inſpiration, or inbreathing of God (by Scripture I mean, the Books of the old Teſtament, as <hi>Moſes</hi> and the Prophets, and of the new Teſtament) and is profitable for doctrine, for reproof, for correction, for inſtru<g ref="char:EOLhyphen"/>ction in righteouſneſſe, that the man of God may be perfect, through<g ref="char:EOLhyphen"/>ly furniſhed unto all good works, 1 <hi>Tim.</hi> 3.16, 17. and that in all things which concern faith and obedience, whether in Gods Worſhip, or in the whole converſation of men, it holdeth forth a moſt perfect rule, wherunto nothing may be added, nor from it may ought be diminiſh<g ref="char:EOLhyphen"/>ed, <hi>Deut.</hi> 4.2. <hi>Rev.</hi> 22.18, 19. Which alſo is ſo clear in truths neceſſary to ſalvation, that the entrance into it giveth light, yea, underſtanding to the ſimple, <hi>Pſal.</hi> 19.7.</p>
+            </div>
+            <div n="2" type="article">
+               <head>
+                  <hi>2.</hi> Concerning the Godhead in the
+<list>
+                     <item>
+                        <g ref="char:V">Ʋ</g>nity of Eſſence, <hi>and</hi>
+                     </item>
+                     <item>Trinity of Perſons.</item>
+                  </list>
+               </head>
+               <p>That God is a Spirit moſt holy, immutable, eternall, every way in<g ref="char:EOLhyphen"/>finite, in greatneſſe, goodneſſe, power, wiſdome, juſtice, truth, and in all divine perfections, 1 <hi>Tim.</hi> 6.15, 16. <hi>Joh.</hi> 4.24. <hi>Iſai.</hi> 6.6. <hi>Exod.</hi> 34.6, 7. And that in this Godhead, are three diſtinct Perſons, coeternall, co<g ref="char:EOLhyphen"/>equall, and coeſſentiall, being every one of them one and the ſame God, not three Gods, and therefore not divided in eſſence, nature, or being, <hi>Deut.</hi> 4.3. but diſtinguiſhed one from another, by their ſeverall and peculiar relative property; the Father is of none but of himſelf, the Son is begotten of the Father before all worlds, the Holy Ghoſt pro<g ref="char:EOLhyphen"/>ceedeth from the Father and the Son, from all eternity, all together are to be worſhipped and glorified.</p>
+            </div>
+            <div n="3" type="article">
+               <head>
+                  <hi>3.</hi> Concerning the Decrees of God.</head>
+               <p>That God hath unchangeably decreed in himſelf from everlaſting,
+<pb n="35" facs="tcp:48591:20"/>touching all things, great and ſmall, neceſſary, contingent, and volun<g ref="char:EOLhyphen"/>tary, with all the circumſtances of them, to work, and diſpoſe them ac<g ref="char:EOLhyphen"/>cording to the counſell of his own will (yet without being Author of, or having fellowſhip with the ſins of any) to the praiſe and glory of his great name. And touching the eternall eſtate of men, that God hath according to his moſt wiſe, free, and unchangeable purpoſe in himſelf, before the foundation of the world, choſen ſome in Jeſus Chriſt to eternall life, to the praiſe and glory of his grace, and rejected or reprobated others to the praiſe of his juſtice.</p>
+            </div>
+            <div n="4" type="article">
+               <head>
+                  <hi>4.</hi> Concerning Creation and Providence.</head>
+               <p>That in the beginning God made by his Word all things of nothing very good, and made man, male and female, after his own Image righ<g ref="char:EOLhyphen"/>teous; and as a faithfull Creator doth ſtill uphold, diſpoſe, and govern all things to the ends for which they were created, having care eſpecial<g ref="char:EOLhyphen"/>ly for man, and amongſt men, chiefly for the righteous and believers; ſo that neither good nor evill befalls any man without Gods providence.</p>
+            </div>
+            <div n="5" type="article">
+               <head>
+                  <hi>5.</hi> Concerning the fall of man, and originall ſin.</head>
+               <p>That in as much as <hi>Adam</hi> was the root of all mankind, the Law and Covenant of works was given to him, as to a publike perſon, and to an head from whence all good or evill was to be derived to his poſterity: Seeing therefore that by the ſubtilty of the Serpent, which Satan uſed as his Inſtrument, firſt <hi>Eve,</hi> then <hi>Adam</hi> being ſeduced, did wittingly and willingly fall into the diſobedience of the Commandment of God; Death came upon all juſtly, and reigned over all, yea, over Infants alſo which have not ſinned after the like manner of the tranſgreſſion of <hi>A<g ref="char:EOLhyphen"/>dam:</hi> Hence alſo it is, that all ſince the fall of <hi>Adam,</hi> are begotten in his own likeneſſe, after his Image, being conceived and born in iniquity, and ſo by nature children of wrath, dead in treſpaſſes and ſins, altoge<g ref="char:EOLhyphen"/>ther filthy and polluted throughout in ſoule and body; utterly averſe from any ſpirituall good, ſtrongly bent to all evill, and ſubject to all calamities due to ſin in this world, and for ever.</p>
+            </div>
+            <div n="6" type="article">
+               <head>
+                  <hi>6.</hi> Concerning mans reſtitution.</head>
+               <p>That all mankind being thus fallen, yet the elect, and only they, are redeemed, reconciled to God, and ſaved, not of themſelves, neither by their own works, but only by the mighty power of God, of his un<g ref="char:EOLhyphen"/>ſearchable, rich, free grace and mercy, through faith in Jeſus Chriſt, who of God is made unto us wiſdom, righteouſneſs, ſanctification, and redemption; in the relation both of a ſurety to ſatisfie God juſtice for us, and of an head to reſtore the Image of God that was loſt, and re<g ref="char:EOLhyphen"/>pair the nature that was corrupted in us.</p>
+            </div>
+            <div n="7" type="article">
+               <pb n="36" facs="tcp:48591:21"/>
+               <head>
+                  <hi>7.</hi> Concerning the Perſon and Natures in Chriſt.</head>
+               <p>That the Lord Jeſus, of whom <hi>Moſes</hi> and the Prophets wrote, and whom the Apoſtles preached, is, as touching his Perſon, the everlaſting Son of God the Father, by eternall generation, coeſſentiall, coequall, and coeternall, God with him, and with the holy Ghoſt; by whom he made the world, and by whom hee upholdeth and governs all the works he hath made: who alſo, when the fulneſſe of time was come, was made of a woman, of the Tribe of <hi>Judah,</hi> of the ſeed of <hi>David</hi> and <hi>Abraham, viz.</hi> of <hi>Mary,</hi> that bleſſed Virgin, by by the Holy Ghoſt com<g ref="char:EOLhyphen"/>ing upon her, and the power of the moſt high overſhadowing her; and was in all things like unto us, ſin only excepted; ſo that in the perſon of Chriſt, the two natures, the divine and humane, are truly, perfectly, indiviſibly, and diſtinctly united.</p>
+            </div>
+            <div n="8" type="article">
+               <head>
+                  <hi>8.</hi> Concerning the Offices of Chriſt.</head>
+               <p>That Jeſus Chriſt is the only Mediatour of the new Teſtament, even of <hi>the Covenant of Grace</hi> between God and man; the Prophet, Prieſt, and King of the Church of God for evermore; and this office is ſo proper to Chriſt, as, neither in the whole, nor any part thereof, it can be transferred from him to any other. And to this office hee was from everlaſting, and in reſpect of his Manhood, from the womb, cal<g ref="char:EOLhyphen"/>led, ſeparated, and anointed moſt fully with all neceſſary gifts, as it is written, God hath not meaſured out of the Spirit unto him.</p>
+            </div>
+            <div n="9" type="article">
+               <head>
+                  <hi>9.</hi> Concerning Chriſts propheticall Office.</head>
+               <p>That Chriſt hath perfectly revealed the whole will of God, ſo far as it is needfull for his people, either joyntly, or ſeverally to know, believe, or obey, and that he hath ſpoken, and doth ſpeak to his Church, in his own Ordinances by thoſe inſtruments whom hee ſendeth, and by his Spirit.</p>
+            </div>
+            <div n="10" type="article">
+               <head>
+                  <hi>10.</hi> Concerning the Prieſthood of Chriſt.</head>
+               <p>That Chriſt being conſecrated, hath appeared once to put away ſin, by the offering and ſacrificing of himſelf, and hath fully performed and ſuffered all thoſe things, by which, God through the blood of his croſſe, in a ſacrifice of a ſweet ſmelling ſavor, might be reconciled to his elect; and having broken down the partition wall, and finiſhed and removed thoſe ceremoniall rites and ſhadowes, is now entred into the moſt holy place, (not made with hands) to the very heavens and pre<g ref="char:EOLhyphen"/>ſence of God, where he for ever liveth, and ſitteth at the right hand of Majeſty, to make interceſſion for ſuch as come unto the Throne of Grace by that new and living way; and he maketh his people a ſpiri<g ref="char:EOLhyphen"/>tuall houſe, and an holy Prieſthood to offer up ſpirituall ſacrifices ac<g ref="char:EOLhyphen"/>ceptable to God through him.</p>
+            </div>
+            <div n="11" type="article">
+               <pb n="37" facs="tcp:48591:21"/>
+               <head>
+                  <hi>11.</hi> Concerning Chriſts Kingly Office: <hi>1.</hi> In generall.</head>
+               <p>That Chriſt being riſen from the dead, aſcended up to heaven, ſet at the right hand of God the Father, hath all power in heaven and earth given to him, and doth exerciſe his power in his government of this world over all Angels and men, good and bad, to the preſervation and ſalvation of his elect, and to the ruling and deſtruction of the repro<g ref="char:EOLhyphen"/>bate; communicating and applying to his elect, the benefits, vertue, and fruit of his prophecie, and prieſthood to their regeneration, juſtificati<g ref="char:EOLhyphen"/>on, ſanctification, preſervation, and ſtrengthening in all their ſpirituall conflicts againſt Satan, the world and the fleſh, continually dwelling in them by his holy Spirit, begetting and nouriſhing in them faith, hope, love, repentance, obedience, with peace and joy unto immortali<g ref="char:EOLhyphen"/>ty: but on the contrary, limiting, uſing, reſtraining the reprobates his enemies, by his mighty power, as ſeemeth good in his divine wiſdome and juſtice, to their ſeduction, hardening and condemnation, till his appearing in glory with his mighty Angels to judge both quick and dead; where he will be, and ſeparate all his elect from them for ever, puniſhing the wicked with everlaſting perdition from his preſence; and joyning together the godly with himſelf in endleſſe glory.</p>
+            </div>
+            <div n="12" type="article">
+               <head>
+                  <hi>12.</hi> Concerning his Kingdome: <hi>2.</hi> In ſpeciall.</head>
+               <p>That in the mean time, beſides his abſolute rule in the world, Chriſt hath here on earth, a ſpirituall Kingdome in his Church, which hee hath purchaſed and redeemed to himſelf as a peculiar inheritance, into the body whereof he doth by the power of his Word, and Spirit, ga<g ref="char:EOLhyphen"/>ther his heople, calling them through the Miniſtery of the Goſpel out of the world, and from Idolatry, ſuperſtition, and from all works of darkneſſe to fellowſhip with Jeſus Chriſt, and by him with the Father, and the Holy Ghoſt, and with his people, making them a royall Prieſt<g ref="char:EOLhyphen"/>hood, an holy nation, a people ſet at liberty, to ſhew forth the vertues of him that hath called them out of darkneſs into his marvellous light, and uniteth them together as members of one body in his faith, love, and holy order unto all generall and mutuall duties: and inſtructs and governs them by thoſe inſtruments and ordinances which he himſelf hath preſcribed in his word for the edification of his body the Church.</p>
+            </div>
+            <div n="13" type="article">
+               <head>
+                  <hi>13.</hi> Concerning the Application of Redemption.</head>
+               <p>That the Holy Ghoſt is ſent by the Father and the Son to make ap<g ref="char:EOLhyphen"/>plication of Redemption only to thoſe whom the Father hath by his eternall Decree given to Chriſt, and for whom Chriſt maketh inter<g ref="char:EOLhyphen"/>ceſſion to his Father, and whom the Father accepts in Chriſt unto fellowſhip of the everlaſting Covenant of his free Grace, having called
+<pb n="38" facs="tcp:48591:22"/>them out of the world to fellowſhip with Jeſus Chriſt by the Goſpel, made effectually to that end, by the mighty power and operation of the Holy Ghoſt. Which grace of effectuall calling is thus diſpenſed to a poor loſt ſinner, awakened and humbled by the Law through the effectuall working of the ſpirit of bondage, judging himſelf worthy to be deſtroyed for his ſins; and ſeeing himſelf utterly deſtitute of all help or hope of himſelf: The Lord, in the preaching of the Goſpel by the powerfull work of the Holy Ghoſt, revealeth the fulneſſe and all-ſufficiencie of that grace, and ſalvation which is laid up in Jeſus Chriſt, as the only ſutable good to him; that hee alſo enableth him ſpiritual<g ref="char:EOLhyphen"/>ly and ſavingly to apprehend Jeſus Chriſt as given him of the Father. And the ſame Spirit, having thus enlightened him, doth leave a ſuper<g ref="char:EOLhyphen"/>naturall vertue and impreſſion of Gods love upon the ſoul, whereby the ſoul is drawn to cloſe with Chriſt, and with that grace of God in him ſo entirely, that there is now nothing between Chriſt and the ſoul, but it willingly parts with all things that hinder his enjoying of Chriſt; and by this effectuall calling all that are brought to Chriſt, are, 1. juſtified, that is, abſolved from ſin and death, and accounted righteous unto life, for, and through Chriſt apprehended, received, and relied upon by faith. 2. They are adopted, that is, accepted for Chriſts ſake to the dignity of Gods children: They are alſo, 3. ſan<g ref="char:EOLhyphen"/>ctified, that is really changed by degrees from the impurity of ſin, to the purity of Gods Image; and laſtly, they are glorified, that is, changed from the miſery or puniſhment of ſin, unto everlaſting hap<g ref="char:EOLhyphen"/>pineſſe, which begins in the inward ſenſe of Gods love to them in Chriſt, whence they have hope of glory, boldneſſe in acceſſe to God, certainty of ſalvation, peace, joy unſpeakable; and it endeth in their full perfection in ſoul and body.</p>
+            </div>
+            <div n="14" type="article">
+               <head>
+                  <hi>14.</hi> Concerning a particular inſtituted Church, and the Priviledges thereof.</head>
+               <p>That it is a company of faithfull and holy people, or perſons cal<g ref="char:EOLhyphen"/>led out of the world to fellowſhip with Jeſus Chriſt, and united in one Congregation to him as members to their head, and one with another, by a holy covenant for mutuall fellowſhip in all ſuch wayes of holy worſhip of God, and of edification of one towards another, as God himſelf hath required in his Word of every Church of Chriſt, and the members thereof.</p>
+            </div>
+            <div n="15" type="article">
+               <head>
+                  <hi>15.</hi> Concerning the manner of gathering a Church.</head>
+               <p>That it is the duty of all Chriſtians, having renounced all falſe wayes of Idolatrous, Antichriſtian, and ſuperſtitious worſhip, and of ſin, and the world (as to inſtruct and govern their own families ac<g ref="char:EOLhyphen"/>cording
+<pb n="39" facs="tcp:48591:22"/>to God, ſo) to joyn willingly together in Chriſtian commu<g ref="char:EOLhyphen"/>nion and orderly covenant, and by free confeſſion of the faith, and profeſſion of their ſubjection to the Goſpel of Chriſt, to unite them<g ref="char:EOLhyphen"/>ſelves unto peculiar and viſible Congregations, wherein as members of one body, whereof Chriſt is the head, they are to worſhip God accor<g ref="char:EOLhyphen"/>ding to his Word: To this Church he hath given royall priviledges, as the holy Oracles, the Promiſes, the Seals of the Covenant, his preſence, love, protection and bleſſing in a ſpeciall manner, here all that acknow<g ref="char:EOLhyphen"/>ledge him to be their Prophet, Prieſt, and King, are to be inrolled a<g ref="char:EOLhyphen"/>mongſt his houſhold ſervants, and to preſent their bodies, and ſoules, and gifts, and ſolemn ſervices for a ſpirituall ſacrifice acceptable to God by Jeſus Chriſt. Being thus united, they, to whom God hath given gifts to interpret the Scriptures, being approved by the Church, and appoin<g ref="char:EOLhyphen"/>ted thereunto, may, and ought to teach publikely the Word of God, by prophecying according to the proportion of faith for edification, ex<g ref="char:EOLhyphen"/>hortation, and comfort of the Church, till ſuch time as men may be had, fit for ſuch office or offices, as Chriſt hath appointed to the publike Miniſtery of his Church; and then they are upon due triall, to proceed to the choyce and ordination of thoſe officers according to God: and then the officers are to diſpenſe the ſeals of the Covenant, <hi>viz.</hi> Baptiſme to the ſeed of the faithfull in their Infancy, and to others not yet bapti<g ref="char:EOLhyphen"/>zed, when by profeſſion of their faith they are added to the Church: And all of the Church that are of yeers, and are able to examine them<g ref="char:EOLhyphen"/>ſelves, muſt communicate alſo in the Lords Supper in both kindes, <hi>viz.</hi> Bread and Wine.</p>
+            </div>
+            <div n="16" type="article">
+               <head>
+                  <hi>16.</hi> Concerning the Sacraments.</head>
+               <p>That they are in the ordinance of God, ſigns and ſeals of Gods everlaſting Covenant with us, repreſenting and offering to all recei<g ref="char:EOLhyphen"/>vers, but exhibiting only to true believers the Lord Jeſus Chriſt and all his benefits unto righteouſneſſe, ſanctification, and eternall life, through faith in his name, to the Glory and praiſe of God.</p>
+            </div>
+            <div n="17" type="article">
+               <head>
+                  <hi>17.</hi> Concerning the power of every Church.</head>
+               <p>That Chriſt hath given the power of chuſing Officers, and of re<g ref="char:EOLhyphen"/>ceiving in, or calling of any member, to the whole body together of every Church, and not to any one member apart, or to more mem<g ref="char:EOLhyphen"/>bers ſequeſtred from the whole, or to any other Congregation to do it for them; yet ſo, as every Church ought to uſe the beſt help they can hereunto, and the moſt meet member they have to pronounce the ſame in their publike Aſſemblies, if they want Officers. And to this cenſure and judgement of Chriſt, duly and orderly diſpenſed, every
+<pb n="40" facs="tcp:48591:23"/>member of the Congregation, yea, and officer alſo how exellent, or learned ſoever he be, is ſubject. Yet ought not the Church without great care and advice to proceed againſt ſuch publike perſons.</p>
+            </div>
+            <div n="18" type="article">
+               <head>
+                  <hi>18.</hi> Concerning the Communion of Churches.</head>
+               <p>That although particular Churches be diſtinct and ſeverall <hi>Inde<g ref="char:EOLhyphen"/>pendent</hi> bodies, every one as a city compact within it ſelf, without ſub<g ref="char:EOLhyphen"/>ordination under, or dependence upon any other but Jeſus Chriſt, yet are all Churches to walk by one and the ſame rule, and by all means convenient, to have the counſell and help one of another, when need requireth, as members of one body, in the common faith under Chriſt their only Head.</p>
+            </div>
+            <div n="19" type="article">
+               <head>
+                  <hi>19.</hi> Concerning Church-officers.</head>
+               <p>That Chriſt, when hee aſcended up on high, gave gifts unto men, and diſpoſed of them in ſeverall functions, and for publike ordinary miniſtery, he gave Paſtors, Teachers, Elders, Deacons, helpers for the inſtruction, government, and ſervice of his Church, to the worlds end; and that none may uſurp or execute a Miniſtery in the Church, but ſuch as are rightly called by the Church, whereof they ſtand Miniſters, and being ſo called, they ought to give all diligence to fulfill their Mi<g ref="char:EOLhyphen"/>niſtery, and to be found faithfull, and unblamable in all things: And that this miniſtery is alike given to every Church of Chriſt, with like and equall power, and commiſſion to have and enjoy the ſame as God offereth fit men, and means, and the ſame rules are given to all for the election and execution thereof in all places: which rules &amp; lawes it is not lawfull for thoſe Miniſters, or for the Church, wittingly to neglect or tranſgreſſe in any part. And thoſe Miniſters thus choſen, and exe<g ref="char:EOLhyphen"/>cuting their office faithfully, every Church is bound to have them in ſingular love for their works ſake, to reverence them according to the dignity of their office w<hi rend="sup">ch</hi> they execute, and to provide for them, that they be not entangled with the cares of this life, according to the Law of Chriſt: And this to do, not as in way of courteſie or mercy, but out of duty to them in the Lord; and having hope in God, that the reſur<g ref="char:EOLhyphen"/>rection ſhall be of the juſt and of the unjuſt; of the juſt, to the reſur<g ref="char:EOLhyphen"/>rection of life, and of the unjuſt, to the reſurrection of condemnation.</p>
+            </div>
+            <div n="20" type="article">
+               <head>
+                  <hi>20.</hi> Concerning giving every man his due.</head>
+               <p>That unto all men is to be given whatſoever is due to them, in re<g ref="char:EOLhyphen"/>gard of their office, place, gifts, wages, eſtate, and condition; endea<g ref="char:EOLhyphen"/>vouring our ſelves to have alwayes a conſcience void of offence to<g ref="char:EOLhyphen"/>wards God, and towards men.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:48591:23"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
